@@ -1,0 +1,301 @@
+JIB_ZAPOSLENI,IME,PREZIME,ADRESA,BROJ_TEL,POL,DATUM_RODJ,JMBG,POZICIJA,TIP_UGOVORA,BROJ_RADNIH_SATI,ISPLATA_PLATE,SMJENA
+1,Filip,Buckiæ,"Caparde BB, Caparde",065/237-795,M,12/11/1963,1112639374181,Magacioner,Za stalno,48,Mjeseèno,1
+2,Rasim,Viciknez,"Caparde BB, Caparde",065/355-338,M,1/29/1972,2901721956333,Šef klinike,Na odreðeno,48,Mjeseèno,1
+3,Branivoj,Pješèiæ,"Šeher BB, Osmaci",065/224-167,M,10/10/1972,1010722047768,Šef klinike,Na odreðeno,48,Mjeseèno,1
+4,Jovica,Beševiæ,"Gornje Dubovo BB, Višegrad",065/243-010,M,9/17/1969,1709691975628,Šef klinike,Na odreðeno,48,Mjeseèno,1
+5,Novak,Tomin,"Dubovo BB, Višegrad",065/355-059,M,11/20/1975,2011753280749,Šef klinike,Na odreðeno,48,Mjeseèno,1
+6,Emilijan,Prahovljanoviæ,"Nikitoviæi BB, Višegrad",065/355-085,M,9/12/1961,1209619842641,Šef klinike,Na odreðeno,48,Mjeseèno,1
+7,Rusin,Zipaloviæ,"Budimlije BB, Bijelo Brdo",065/355-411,M,8/3/1991,0308917173453,Šef klinike,Na odreðeno,48,Mjeseèno,1
+8,Josif,Rauševiæ,"Budimlije BB, Bijelo Brdo",065/213-774,M,1/14/1962,1401628322506,Šef klinike,Na odreðeno,48,Mjeseèno,1
+9,Berko,Bosniæ,"Ustipraèa BB, Novo Goražde",065/214-620,M,10/5/1969,0510698984398,Šef klinike,Na odreðeno,48,Mjeseèno,1
+10,Veselin,Šponja,"Mašiæi BB, Novo Goražde",065/481-657,M,10/22/1994,2210945185022,Šef klinike,Na odreðeno,48,Mjeseèno,1
+11,Grigorije,Jonèiæ,"Kozja Luka BB, Miljevina",065/481-663,M,8/8/1970,0808707290982,Šef klinike,Na odreðeno,48,Mjeseèno,1
+12,Slavimir,Æiprovac,"Ivoviæi BB, Foèa",065/222-770,M,12/26/1992,2612922611583,Magacioner,Za stalno,48,Mjeseèno,2
+13,Mario,Degoricija,"Duèiæeva BB, Foèa",065/311-162,M,1/24/1985,2401851821828,Magacioner,Za stalno,48,Mjeseèno,3
+14,Bratimir,Utješanoviæ,"Duèiæeva BB, Foèa",065/311-146,M,7/13/1964,1307648358755,Vozaè,Za stalno,48,Mjeseèno,1
+15,Gajin,Radanov,"Maše Hanjaliæa BB, Foèa",065/311-069,M,6/29/1967,2906677456419,Vozaè,Za stalno,48,Mjeseèno,2
+16,Joakim,Duvnjak,"Maše Hanjaliæa BB, Foèa",065/311-147,M,10/23/1976,2310763776579,Vozaè,Za stalno,48,Mjeseèno,3
+17,Dragašin,Jakovljev,"Soèice BB, Rogatica",065/303-112,M,3/3/1977,0303776249264,Vozaè,Za stalno,48,Mjeseèno,1
+18,Damjan,Paviæ,"Markoviæ Kolo BB, Èajnièe",065/333-798,M,3/30/1973,3003736310662,Vozaè,Za stalno,48,Mjeseèno,2
+19,Beloslav,Mladiæ,"Igumana Vasilija BB, Èajnièe",065/333-795,M,10/19/1969,1910692390030,Vozaè,Za stalno,48,Mjeseèno,3
+20,Svetoje,Trnovac,"Vrasoliæi BB, Rogatica",065/224-284,M,9/8/1987,0809875481974,Vozaè,Za stalno,48,Mjeseèno,1
+21,Ignjatije,Cimeša,"Vese Rackoviæa BB, Rogatica",065/241-090,M,6/6/1988,0606889653798,Vozaè,Za stalno,48,Mjeseèno,2
+22,Cvetan,Stojakoviæ,"Kragujevaèka BB, Rudo",065/241-092,M,4/30/1978,3004785696063,Vozaè,Za stalno,48,Mjeseèno,3
+23,Gradislav,Komljen,"Romanijska BB, Rudo",065/231-707,M,3/12/1986,1203868859890,Vozaè,Za stalno,48,Mjeseèno,1
+24,Radoš,Cincar,"Medakovina BB, Bileæa",065/211-314,M,2/27/1968,2702685628974,Vozaè,Za stalno,48,Mjeseèno,2
+25,Svetozar,Maklenoviæ,"Hilendarska BB, Bileæa",065/231-186,M,10/21/1966,2110661803571,Vozaè,Za stalno,48,Mjeseèno,3
+26,Æirjak,Kerleta,"Kraljice Jelene 10, Gacko",065/333-103,M,10/11/1963,1110631675070,Vozaè,Za stalno,48,Mjeseèno,1
+27,Živadin,Nikolešiæ,"Ustanièka 29, Trebinje",065/323-263,M,8/30/1992,3008927116533,Vozaè,Za stalno,48,Mjeseèno,2
+28,Sreæko,Milkiæ,"Vidovdanska 5, Trebinje",065/233-252,M,10/17/1978,1710783297365,Vozaè,Za stalno,48,Mjeseèno,3
+29,Dimitar,Æato,"Donje Police BB, Trebinje",065/303-116,M,4/30/1960,3004602655243,Vozaè,Za stalno,48,Mjeseèno,1
+30,Milen,Tarana,"Luke Vukaloviæa BB, Trebinje",065/333-852,M,10/11/1984,1110846413943,Vozaè,Za stalno,48,Mjeseèno,2
+31,Marjan,Motièiæ,"Zubaèka Ulica Br.4, Trebinje",065/333-277,M,2/24/1965,2402652241338,Vozaè,Za stalno,48,Mjeseèno,3
+32,Slaven,Šehovac,"Zahumska Ulica 7, Trebinje",065/234-882,M,7/4/1987,0407875595205,Vozaè,Za stalno,48,Mjeseèno,1
+33,Dren,Bosniæ,"Zubaèka Ulica 1, Trebinje",065/339-868,M,9/18/1971,1809714853335,Vozaè,Za stalno,48,Mjeseèno,2
+34,Dragoslav,Kozarski,"Zetska Ulica 8, Trebinje",065/339-822,M,11/12/1961,1211616314349,Vozaè,Za stalno,48,Mjeseèno,3
+35,Blažen,Tešiæ,"Rakino Brdo BB, Osmaci",065/323-752,M,3/29/1966,2903669732195,Vozaè,Za stalno,48,Mjeseèno,1
+36,Obreten,Košnièar,"Osmaci BB, Osmaci",065/234-524,M,3/29/1985,2903858062141,Vozaè,Za stalno,48,Mjeseèno,2
+37,Vujeta,Dvorniæ,"Vilièeviæi BB, Vilièeviæi",065/355-287,M,8/21/1960,2108603649814,Vozaè,Za stalno,48,Mjeseèno,3
+38,Luka,Zlovariæ,"Žutica BB, Derventa",065/243-490,M,11/20/1967,2011676577115,Vozaè,Za stalno,48,Mjeseèno,1
+39,Živomir,Abutoviæ,"Ivan Polje BB, Derventa",065/232-419,M,2/1/1977,0102777136107,Vozaè,Za stalno,48,Mjeseèno,2
+40,Milo,Buaè,"Derventa BB, Derventa",065/333-008,M,2/21/1964,2102644823464,Portir,Za stalno,72,Mjeseèno,1
+41,Jordan,Vukoliæ,"Lukiæ Polje BB, Derventa",065/323-383,M,12/27/1961,2712612871448,Portir,Za stalno,72,Mjeseèno,2
+42,Èedomir,Purkoviæ,"Lukiæ Polje BB, Derventa",065/214-165,M,9/27/1971,2709716252844,Portir,Za stalno,72,Mjeseèno,1
+43,Radun,Bilakoviæ,"Ristijeviæi BB, Derventa",065/237-916,M,11/27/1963,2711632239610,Portir,Za stalno,72,Mjeseèno,2
+44,Stoin,Radeljeviæ,"Lukavica BB, Lukavica",065/211-042,M,9/7/1981,0709814395617,Portir,Za stalno,72,Mjeseèno,1
+45,Junoša,Puljareviæ,"Lukavica BB, Lukavica",065/231-541,M,2/6/1976,0602768126562,Portir,Za stalno,72,Mjeseèno,2
+46,Dobromil,Velkanoviæ,"Lukavica BB, Lukavica",065/303-115,M,3/28/1994,2803948546737,Portir,Za stalno,72,Mjeseèno,1
+47,Èeda,Belada,"Vukšiæ Polje bb, Miliæi",065/303-113,M,9/17/1974,1709749744085,Portir,Za stalno,72,Mjeseèno,2
+48,Dimèo,Takovac,"Vuka Stefanoviæa Karadžiæa S19/5, Miliæi",065/333-365,M,4/9/1966,0904661163996,Portir,Za stalno,72,Mjeseèno,1
+49,Borivoj,Aguridiæ,"Solunskih Junaka bb, Miliæi",065/237-253,M,7/15/1960,1507604200561,Portir,Za stalno,72,Mjeseèno,2
+50,Ivo,Vijatoviæ,"Vuka Stefanoviæa Karadžiæa S2, Miliæi",065/333-853,M,3/17/1978,1703782556736,Portir,Za stalno,72,Mjeseèno,1
+51,Bojko,Žiga,"Moštanice BB, Bratunac",065/215-688,M,2/6/1976,0602765666198,Portir,Za stalno,72,Mjeseèno,2
+52,Stamenko,Beženar,"Bratunac BB, Bratunac",065/335-123,M,5/7/1993,0705938311047,Portir,Za stalno,72,Mjeseèno,1
+53,Simeon,Lazetiæ,"Smoljeva BB, Bratunac",065/360-089,M,8/21/1976,2108763089188,Portir,Za stalno,72,Mjeseèno,2
+54,Vukodrag,Velimiroviæ,"Kravièka BB, Bratunac",065/333-588,M,8/18/1992,1808921729841,Portir,Za stalno,72,Mjeseèno,1
+55,Bogoje,Lompar,"Podgradac BB, Bratunac",065/212-360,M,8/1/1993,0108939946442,Portir,Za stalno,72,Mjeseèno,2
+56,Vita,Ðoriæ,"Osamsko BB, Bratunac",065/233-184,M,6/5/1960,0506604940491,Portir,Za stalno,72,Mjeseèno,1
+57,Gradiša,Kudriæ,"Nemanjina BB, Bratunac",065/351-315,M,6/4/1993,0406932526641,Portir,Za stalno,72,Mjeseèno,2
+58,Dragomil,Jezdoviæ,"Drinska BB, Bratunac",065/303-145,M,8/20/1986,2008862543107,Portir,Za stalno,72,Mjeseèno,1
+59,Mileš,Brankoviæ,"Moštanice BB, Bratunac",065/236-582,M,5/31/1981,3105817422688,Portir,Za stalno,72,Mjeseèno,2
+60,Vujoš,Durkoviæ,"Dubravice BB, Bratunac",065/236-712,M,6/28/1966,2806666249665,Portir,Za stalno,72,Mjeseèno,1
+61,Vukmir,Oseæanski,"Jelovaèka BB, Bratunac",065/333-202,M,4/20/1981,2004817798733,Portir,Za stalno,72,Mjeseèno,2
+62,Teofan,Zlatanoviæ,"Drinska BB, Bratunac",065/232-596,M,3/11/1970,1103702875185,Portir,Za stalno,72,Mjeseèno,1
+63,Kristijan,Medan,"Obala I BB, Bratunac",065/333-364,M,12/13/1987,1312872606024,Portir,Za stalno,72,Mjeseèno,2
+64,Jaroslav,Butriæ,"Dubravice BB, Bratunac",065/483-806,M,1/22/1980,2201801757695,Portir,Za stalno,72,Mjeseèno,1
+65,Æira,Prelovac,"Osamsko BB, Bratunac",065/482-560,M,10/30/1974,3010741062099,Portir,Za stalno,72,Mjeseèno,2
+66,Gligorije,Kaèavenda,"Vreljansko Polje BB, Šekoviæi",065/482-742,M,9/16/1964,1609646034701,Portir,Za stalno,72,Mjeseèno,1
+67,Leonid,Kremiæ,"Javor BB, Šekoviæi",065/483-767,M,9/16/1979,1609799275337,Portir,Za stalno,72,Mjeseèno,2
+68,Balša,Viæentijeviæ,"Ðure Jakšiæa BB, Šekoviæi",065/483-790,M,6/12/1977,1206773780741,Portir,Za stalno,72,Mjeseèno,1
+69,Dobromir,Èekoviæ,"Karaðorðeva BB, Šekoviæi",065/483-242,M,3/10/1973,1003735459067,Portir,Za stalno,72,Mjeseèno,2
+70,Straška,Dolinac,"Vreljansko Polje BB, Šekoviæi",065/337-237,M,6/9/1978,0906786129603,Portir,Za stalno,72,Mjeseèno,1
+71,Srbislav,Radulac,"Javor BB, Šekoviæi",065/337-293,M,12/15/1973,1512736697624,Portir,Za stalno,72,Mjeseèno,2
+72,Mirosav,Abadžija,"Draže Mihajloviæa BB, Šekoviæi",065/324-077,M,7/17/1978,1707783244751,Anasteziolog,Za stalno,48,Mjeseèno,1
+73,Manojlo,Antunoviæ,"Rajka Bobara Br.44, Šekoviæi",065/234-038,M,11/1/1994,0111942083754,Ginekolog,Za stalno,48,Sedmièno,1
+74,Strahinja,Lukiæ,"Suèani BB, Šekoviæi",065/220-330,M,12/20/1964,2012646518088,Pedijatar,Na odreðeno,48,Sedmièno,3
+75,Obren,Èanèareviæ,"Janka Bašiæa BB, Šekoviæi",065/237-383,M,9/26/1980,2609805756302,Specijalista infektologije,Za stalno,48,Sedmièno,1
+76,Gal,Šmigiæ,"Kralja Petra I Karaðorðeviæa BB, Šekoviæi",065/211-425,M,8/11/1962,1108623124403,Specijalista infektologije,Na odreðeno,48,Sedmièno,2
+77,Samuilo,Velièkov,"Zupci BB, Šekoviæi",065/319-134,M,6/14/1979,1406799341943,Neurohirurg,Na odreðeno,48,Sedmièno,1
+78,Trifun,Konjoviæ,"Šekoviæi Brace/Deliæ, Šekoviæi",065/231-292,M,8/26/1966,2608667967332,Neurolog,Na odreðeno,48,Sedmièno,1
+79,Žarko,Ljuboja,"Roæeviæ BB, Kozluk",065/214-981,M,4/16/1989,1604891789128,Hirurg,Za stalno,48,Sedmièno,1
+80,Kozma,Didanoviæ,"Pantiæi BB, Donji Lokanj",065/360-369,M,4/1/1987,0104871084631,Hirurg,Na odreðeno,48,Sedmièno,2
+81,Anðelko,Blagiæ,"Šljunkara BB, Èelopek",065/480-624,M,5/25/1984,2505843453724,Hirurg,Na odreðeno,48,Sedmièno,3
+82,Vukadin,Janiæeviæ,"Trnovica BB, Kozluk",065/482-616,M,12/27/1992,2712921974927,Ortoped,Za stalno,48,Sedmièno,1
+83,Goroljub,Radušiæ,"Jasenica BB, Kozluk",065/222-206,M,8/28/1994,2808948894038,Pulmnolog,Na odreðeno,48,Sedmièno,1
+84,Radoslav,Smoljanoviæ,"Klešiæ BB, Donja Pilica",065/224-484,M,4/14/1963,1404634472891,Psihijatar,Na odreðeno,48,Sedmièno,1
+85,Zvonko,Vukenoviæ,"Èelopek BB, Èelopek",065/365-011,M,1/22/1963,2201635755658,Psihijatar,Na odreðeno,48,Sedmièno,2
+86,Biljan,Perkoviæ,"Trnovica BB, Trnovica",065/224-154,M,10/28/1975,2810758783102,Onkolog,Na odreðeno,48,Sedmièno,1
+87,Vukašin,Ciklušiæ,"Klešiæ BB, Donja Pilica",065/237-446,M,3/31/1981,3103816038349,Onkolog,Na odreðeno,48,Sedmièno,2
+88,Ivica,Kuruc,"Karaðorðeva BB, Zvornik",065/365-010,M,11/6/1972,0611726533437,Onkolog,Na odreðeno,48,Sedmièno,3
+89,Cvijetin,Crepulja,"Dom BB, Donja Pilica",065/236-069,M,2/17/1966,1702669843437,Radiolog,Za stalno,48,Mjeseèno,1
+90,Rastislav,Lukaèeviæ,"Lokanj BB, Gornji Lokanj",065/234-612,M,11/4/1965,0411657009513,Radiolog,Za stalno,48,Mjeseèno,2
+91,Momèilo,Èuroviæ,"Šepak Donji BB, Šepak Donji",065/237-316,M,9/9/1982,0909826981760,Radiolog,Za stalno,48,Mjeseèno,3
+92,Zvonimir,Anðiæ,"Karakaj BB, Zvornik",065/216-765,M,5/24/1989,2405892665439,Radiolog,Za stalno,48,Mjeseèno,1
+93,Jagoš,Dizdareviæ,"Lokanj BB, Gornji Lokanj",065/236-272,M,6/16/1984,1606842572739,Kardiolog,Za stalno,48,Mjeseèno,1
+94,Milisav,Jorgoniæ,"Roæeviæ BB, Roæeviæ",065/236-193,M,10/1/1963,0110639494783,Kardiolog,Za stalno,48,Mjeseèno,2
+95,Konstantin,Mladžiæ,"Roæeviæ BB, Kozluk",065/236-715,M,5/26/1977,2605771999538,Kardiolog,Za stalno,48,Mjeseèno,3
+96,Radmir,Srafijanoviæ,"Jasenica BB, Kozluk",065/323-567,M,6/23/1967,2306676658061,Anasteziolog,Za stalno,48,Mjeseèno,1
+97,Živadin,Odadžiæ,"Šepak Srednji BB, Kozluk",065/335-395,M,3/14/1965,1403654577261,Anasteziolog,Za stalno,48,Mjeseèno,1
+98,Golub,Rukavina,"Svetozara Kosoriæa 3, Han Pijesak",065/236-502,M,5/1/1989,0105893590411,Anasteziolog,Za stalno,48,Mjeseèno,1
+99,Krasimir,Dragomirov,"Željezniæka BB, Han Pijesak",065/215-010,M,11/28/1991,2811916522666,Anasteziolog,Za stalno,48,Mjeseèno,1
+100,Radan,Stjepoviæ,"Željezniæka BB, Han Pijesak",065/236-210,M,10/16/1993,1610933538049,Anasteziolog,Za stalno,48,Mjeseèno,1
+101,Gligorije,Božanoviæ,"Aleksandra Karaðorðeviæa BB, Han Pijesak",065/323-237,M,12/13/1994,1312941105060,Anasteziolog,Za stalno,48,Mjeseèno,1
+102,Boica,Lupoviæ,"Japaga BB, Han Pijesak",065/233-458,M,12/9/1979,0912793636269,Anasteziolog,Za stalno,48,Mjeseèno,1
+103,Stjepan,Miodaniæ,"Svetozara Kosoriæa BB, Han Pijesak",065/236-377,M,6/6/1987,0606875615650,Anasteziolog,Za stalno,48,Mjeseèno,1
+104,Radulin,Trojanèeviæ,"Vikend Naselje BB, Han Pijesak",065/308-001,M,5/19/1979,1905792129815,Anasteziolog,Za stalno,48,Mjeseèno,1
+105,Njegoš,Kotlajiæ,"Aleksandra Karaðorðeviæa 19, Han Pijesak",065/335-159,M,3/12/1974,1203746921003,Anasteziolog,Za stalno,48,Mjeseèno,1
+106,Jakša,Kulinèeviæ,"Japaga BB, Han Pijesak",065/335-141,M,12/26/1992,2612928666725,Anasteziolog,Za stalno,48,Mjeseèno,1
+107,Rabren,Anðelkoviæ,"Vikend Naselje BB, Han Pijesak",065/236-164,M,1/13/1971,1301716585015,Anasteziolog,Za stalno,48,Mjeseèno,1
+108,Miliæ,Biolanoviæ,"Solunskih Dobrovoljaca S10, Han Pijesak",065/308-027,M,10/13/1966,1310668538908,Anasteziolog,Za stalno,48,Mjeseèno,1
+109,Miodrag,Vukosavljeviæ,"Solunskih Dobrovoljaca BB, Han Pijesak",065/308-057,M,11/6/1975,0611752280284,Anasteziolog,Za stalno,48,Mjeseèno,1
+110,Svetoljub,Šubareviæ,"Svetozara Kosoriæa BB, Han Pijesak",065/308-055,M,12/2/1968,0212685212958,Medicinski brat,Za stalno,48,Mjeseèno,1
+111,Budislav,Jasak,"Bukova Glava BB, Han Pijesak",065/237-402,M,6/8/1973,0806735900206,Medicinski brat,Za stalno,48,Mjeseèno,3
+112,Gvozden,Tanuševiæ,"Bukova Glava BB, Han Pijesak",065/335-144,M,9/30/1990,3009905418661,Medicinski brat,Za stalno,48,Mjeseèno,1
+113,Zdravoljub,Grubaèki,"Svetozara Kosoriæa BB, Han Pijesak",065/344-499,M,4/6/1988,0604888592768,Medicinski brat,Za stalno,48,Mjeseèno,2
+114,Goran,Mitiæ,"Rajlovaèka 4, Vojkoviæi, Istoèno Sarajevo",065/344-431,M,11/24/1968,2411687130398,Medicinski brat,Za stalno,48,Mjeseèno,3
+115,Nastas,Pletiæ,"Ravnogorska 102, Vojkoviæi, Istoèno Sarajevo",065/344-228,M,8/27/1965,2708655037398,Medicinski brat,Za stalno,48,Mjeseèno,1
+116,Utešen,Prvanov,"Slavka Leovca 6, Donje Mladice, Istoèno Sarajevo",065/303-077,M,7/13/1976,1307765983086,Medicinski brat,Za stalno,48,Mjeseèno,2
+117,Vojko,Džaleta,"Akademika Petra Mandiæa 8, Dobrinja, Istoèno Sarajevo",065/344-470,M,3/1/1961,0103616242988,Medicinski brat,Za stalno,48,Mjeseèno,3
+118,Gradiša,Milojièiæ,"Trg Ilidžanske Brigade Do, Dobrinja, Istoèno Sarajevo",065/347-188,M,10/4/1993,0410932499719,Medicinski brat,Za stalno,48,Mjeseèno,1
+119,Stavro,Cicak,"Obrada Popadiæa 22, Donje Mladice, Istoèno Sarajevo",065/337-225,M,4/11/1967,1104678246143,Medicinski brat,Za stalno,48,Mjeseèno,2
+120,Velibor,Trobonjaèa,"Trg Ilidžanske Brigade 2c-7, Dobrinja, Istoèno Sarajevo",065/222-237,M,7/20/1983,2007832128129,Medicinski brat,Za stalno,48,Mjeseèno,3
+121,Jova,Radujkov,"Akademika Petra Mandiæa 12, Dobrinja, Istoèno Sarajevo",065/323-141,M,4/25/1982,2504828947759,Medicinski brat,Za stalno,48,Mjeseèno,1
+122,Novica,Bešlagiæ,"Alekse Šantiæa 13, Donje Mladice, Istoèno Sarajevo",065/236-520,M,6/26/1970,2606708906978,Medicinski brat,Za stalno,48,Mjeseèno,2
+123,Vedran,Doljanèeviæ,"Vojvode Radomira Putnika 52 -3, Dobrinja, Istoèno Sarajevo",065/236-357,M,10/1/1977,0110777403598,Medicinski brat,Za stalno,48,Mjeseèno,3
+124,Bogoljub,Juroševiæ,"Besarovica 36, Donje Mladice, Istoèno Sarajevo",065/337-280,M,7/8/1975,0807752416936,Medicinski brat,Za stalno,48,Mjeseèno,1
+125,Andrija,Vrga,"Dabrobosanska 10, Dobrinja, Istoèno Sarajevo",065/214-741,M,9/29/1986,2909864100180,Medicinski brat,Za stalno,48,Mjeseèno,2
+126,Vasil,Zakoviæ,"Dabrobosanska 12, Dobrinja, Istoèno Sarajevo",065/213-585,M,5/17/1987,1705879909597,Medicinski brat,Za stalno,48,Mjeseèno,3
+127,Dukadin,Rašèanin,"Mladiæka 29, Dobrinja, Istoèno Sarajevo",065/335-238,M,5/7/1980,0705802929345,Medicinski brat,Za stalno,48,Mjeseèno,1
+128,Ognjan,Tripkoviæ,"Srpskih Vladara 27, Dobrinja, Istoèno Sarajevo",065/213-455,M,5/10/1983,1005837651764,Medicinski brat,Za stalno,48,Mjeseèno,2
+129,Sever,Goraniæ,"Derokova 68, Donje Mladice, Istoèno Sarajevo",065/337-261,M,1/28/1993,2801935232521,Medicinski brat,Za stalno,48,Mjeseèno,3
+130,Bona,Pažinoviæ,"Otadžbinska 8, Dobrinja, Istoèno Sarajevo",065/323-671,M,6/24/1984,2406845658726,Medicinski brat,Za stalno,48,Mjeseèno,1
+131,Dobrivoj,Vukajloviæ,"9. Januar 1, Dobrinja, Istoèno Sarajevo",065/213-283,M,5/10/1965,1005653652178,Medicinski brat,Za stalno,48,Mjeseèno,2
+132,Vukašin,Anièin,"9. Januar 1, Dobrinja, Istoèno Sarajevo",065/360-324,M,8/22/1971,2208719320202,Medicinski brat,Za stalno,48,Mjeseèno,3
+133,Josif,Romanoviæ,"9. Januar 3, Dobrinja, Istoèno Sarajevo",065/237-341,M,6/10/1983,1006834092046,Medicinski brat,Za stalno,48,Mjeseèno,1
+134,Darjan,Seleèanin,"Carice Miliæe 18, Dobrinja, Istoèno Sarajevo",065/323-949,M,2/18/1963,1802636048133,Medicinski brat,Za stalno,48,Mjeseèno,2
+135,Radimir,Balabanoviæ,"Nikole Tešanoviæa 1a-23, Dobrinja, Istoèno Sarajevo",065/323-396,M,2/28/1961,2802614811539,Medicinski brat,Za stalno,48,Mjeseèno,3
+136,Vujèin,Radaljeviæ,"Otadžbinska 5, Dobrinja, Istoèno Sarajevo",065/333-131,M,11/4/1968,0411683957511,Medicinski brat,Za stalno,48,Mjeseèno,2
+137,Bogašin,Badriæ,"Akademika Petra Mandiæa 70, Dobrinja, Istoèno Sarajevo",065/333-266,M,8/3/1976,0308767631394,Medicinski brat,Za stalno,48,Mjeseèno,2
+138,Joksim,Jovoniæ,"Besarovica 47, Donje Mladice, Istoèno Sarajevo",065/333-308,M,4/2/1994,0204941015041,Medicinski brat,Za stalno,48,Mjeseèno,3
+139,Nestor,Garèeviæ,"Trg Ilidžanske Brigade 7, Dobrinja, Istoèno Sarajevo",065/333-276,M,3/28/1965,2803654867233,Medicinski brat,Za stalno,48,Mjeseèno,1
+140,Pelagije,Vasiæ,"Srpskih Junaka 5, Vojkoviæi, Istoèno Sarajevo",065/485-518,M,7/7/1992,0707922577575,Medicinski brat,Za stalno,48,Mjeseèno,2
+141,Vlaja,Tešiniæ,"Ive Andriæa 19j-20, Dobrinja, Istoèno Sarajevo",065/323-424,M,10/13/1987,1310872728831,Medicinski brat,Za stalno,48,Mjeseèno,3
+142,Makarije,Kutlaèa,"Branka Radièeviæa 13a, Dobrinja, Istoèno Sarajevo",065/222-259,M,9/14/1985,1409855670556,Medicinski brat,Za stalno,48,Mjeseèno,1
+143,Mališa,Nogavica,"Srpskih Junaka 61, Vojkoviæi, Istoèno Sarajevo",065/237-556,M,5/15/1993,1505937312409,Medicinski brat,Za stalno,48,Mjeseèno,2
+144,Dobriša,Kovaèev,"Ravnogorska 29, Dobrinja, Istoèno Sarajevo",065/234-351,M,4/14/1969,1404697513432,Medicinski brat,Za stalno,48,Mjeseèno,3
+145,Georgije,Jovac,"Besarovica 36, Donje Mladice, Istoèno Sarajevo",065/370-300,M,5/22/1960,2205605657520,Medicinski brat,Za stalno,48,Mjeseèno,1
+146,Radmilo,Pantelin,"Donje Mladice 10, Dobrinja, Istoèno Sarajevo",065/349-054,M,4/25/1977,2504776383459,Medicinski brat,Za stalno,48,Mjeseèno,2
+147,Slavomir,Kurtinoviæ,"Ravnogorska BB, Dobrinja, Istoèno Sarajevo",065/236-499,M,10/24/1961,2410617106395,Medicinski brat,Za stalno,48,Mjeseèno,3
+148,Ljubomir,Ðordan,"Derokova 15II, Donje Mladice, Istoèno Sarajevo",065/370-318,M,3/5/1988,0503884918963,Medicinski brat,Za stalno,48,Mjeseèno,1
+149,Kirjak,Pisaroviæ,"Besarovica 45, Donje Mladice, Istoèno Sarajevo",065/339-622,M,4/26/1991,2604915360513,Medicinski brat,Za stalno,48,Mjeseèno,2
+150,Matej,Jakovoviæ,"Trg Kralja Aleksandra 1/2, Dobrinja, Istoèno Sarajevo",065/349-070,M,8/6/1983,0608834586686,Medicinski brat,Za stalno,48,Mjeseèno,3
+151,Kristina,Pujoviæ,"Mladiæka 75, Dobrinja, Istoèno Sarajevo",065/355-345,Z,1/10/1968,1001689429236,Glavna sestra,Za stalno,48,Mjeseèno,1
+152,Budimirka,Lojanièiæ,"Vojvode Radomira Putnika A, Dobrinja, Istoèno Sarajevo",065/214-043,Z,12/29/1960,2912606221792,Glavna sestra,Za stalno,48,Mjeseèno,1
+153,Vukana,Orlandiæ,"Kasindolskog Bataljona 99, Dobrinja, Istoèno Sarajevo",065/231-936,Z,11/23/1986,2311866470879,Glavna sestra,Za stalno,48,Mjeseèno,1
+154,Olga,Tuta,"Akademika Petra Mandiæa 20, Dobrinja, Istoèno Sarajevo",065/214-035,Z,11/20/1993,2011933082395,Glavna sestra,Za stalno,48,Mjeseèno,1
+155,Blaženka,Ljubojev,"Branka Æopiæa 4, Vojkoviæi, Istoèno Sarajevo",065/233-563,Z,12/4/1963,0412634002150,Glavna sestra,Za stalno,48,Mjeseèno,1
+156,Gora,Stanareviæ,"Ravnogorska 55, Dobrinja, Istoèno Sarajevo",065/355-099,Z,7/8/1982,0807821318759,Glavna sestra,Za stalno,48,Mjeseèno,1
+157,Stanika,Blešiæ,"Srpskih Vladara 29, Dobrinja, Istoèno Sarajevo",065/323-803,Z,3/23/1987,2303874010393,Glavna sestra,Za stalno,48,Mjeseèno,1
+158,Antonia,Kolonja,"Akademika V.Komadine 24, Donje Mladice, Istoèno Sarajevo",065/323-648,Z,6/3/1983,0306836178062,Glavna sestra,Za stalno,48,Mjeseèno,1
+159,Agata,Leginoviæ,"Derokova 62, Donje Mladice, Istoèno Sarajevo",065/349-011,Z,10/27/1987,2710877633245,Glavna sestra,Za stalno,48,Mjeseèno,1
+160,Rosa,Jorgovanoviæ,"Vojvode Radomira Putnika 34, Dobrinja, Istoèno Sarajevo",065/355-025,Z,9/1/1986,0109862160016,Glavna sestra,Za stalno,48,Mjeseèno,1
+161,Ruzmarinka,Jelin,"Srðana Kneževiæa 3, Vojkoviæi, Istoèno Sarajevo",065/339-849,Z,5/21/1960,2105606060414,Glavna sestra,Za stalno,48,Mjeseèno,1
+162,Drina,Jaziæ,"Otadžbinska 4, Dobrinja, Istoèno Sarajevo",065/355-307,Z,2/5/1967,0502673758781,Glavna sestra,Za stalno,48,Mjeseèno,1
+163,Kosovka,Ogareviæ,"Dabrobosanska 14, Dobrinja, Istoèno Sarajevo",065/355-219,Z,3/29/1974,2903745055826,Glavna sestra,Za stalno,48,Mjeseèno,1
+164,Karanfila,Milešev,"Vasilja Grðiæa 82, Dobrinja, Istoèno Sarajevo",065/236-112,Z,5/15/1991,1505917551463,Glavna sestra,Za stalno,48,Mjeseèno,1
+165,Pava,Pirkoviæ,"Trg Ilidžanske Brigade 9, Dobrinja, Istoèno Sarajevo",065/335-241,Z,8/6/1983,0608831848108,Glavna sestra,Za stalno,48,Mjeseèno,1
+166,Anabela,Šaponiæ,"Rajlovaèka 8, Vojkoviæi, Istoèno Sarajevo",065/236-791,Z,10/3/1983,0310836558554,Šef klinike,Na odreðeno,48,Mjeseèno,1
+167,Petrija,Ðikanoviæ,"Rajlovaèka 8, Vojkoviæi, Istoèno Sarajevo",065/324-235,Z,3/6/1969,0603693551948,Šef klinike,Na odreðeno,48,Mjeseèno,1
+168,Borisava,Kaplarski,"Dabrobosanska 22, Dobrinja, Istoèno Sarajevo",065/357-062,Z,12/12/1980,1212801621978,Šef klinike,Na odreðeno,48,Mjeseèno,1
+169,Ljubislava,Kusmuk,"Slobodana Janjiæa 15, Donje Mladice, Istoèno Sarajevo",065/237-401,Z,3/6/1971,0603719326391,Šef klinike,Na odreðeno,48,Mjeseèno,1
+170,Renata,Zurnja,"Pavloviæa 54, Dobrinja, Istoèno Sarajevo",065/213-942,Z,11/13/1993,1311936162283,Šef klinike,Na odreðeno,48,Mjeseèno,1
+171,Zlatija,Šešelj,"Srpskih Vladara 13, Dobrinja, Istoèno Sarajevo",065/213-698,Z,1/2/1975,0201754618047,Vozaè,Za stalno,48,Mjeseèno,3
+172,Zorica,Viæovac,"Otadžbinska 24, Dobrinja, Istoèno Sarajevo",065/323-082,Z,11/15/1968,1511687952925,Vozaè,Za stalno,48,Mjeseèno,1
+173,Una,Tiosavljeviæ,"Derokova 63, Donje Mladice, Istoèno Sarajevo",065/236-386,Z,11/9/1967,0911679861396,Vozaè,Za stalno,48,Mjeseèno,2
+174,Anastasija,Vanušiæ,"Otadžbinska 1, Dobrinja, Istoèno Sarajevo",065/236-878,Z,5/16/1988,1605885462488,Vozaè,Za stalno,48,Mjeseèno,3
+175,Alberta,Velaula,"Dabrobosanska 2, Dobrinja, Istoèno Sarajevo",065/349-077,Z,10/14/1966,1410667892104,Medicinska sestra,Za stalno,48,Mjeseèno,2
+176,Snežana,Medareviæ,"Nikole Tešanoviæa 5, Dobrinja, Istoèno Sarajevo",065/234-283,Z,11/26/1986,2611866526481,Medicinska sestra,Za stalno,48,Mjeseèno,2
+177,Margita,Dulikraviæ,"Omladinska BB, Kalinovik",065/482-197,Z,12/19/1964,1912647353212,Medicinska sestra,Za stalno,48,Mjeseèno,2
+178,Živanka,Veselica,"Ulog BB, Kalinovik",065/213-882,Z,4/4/1987,0404875241724,Medicinska sestra,Za stalno,48,Mjeseèno,2
+179,Emilija,Simurdiæ,"Karaðorðeva BB, Kalinovik",065/211-579,Z,1/9/1986,0901866809136,Medicinska sestra,Za stalno,48,Mjeseèno,2
+180,Ceca,Miciæ,"Borija BB, Kalinovik",065/233-886,Z,11/27/1981,2711815102022,Medicinska sestra,Za stalno,48,Mjeseèno,2
+181,Borika,Vujèin,"Graiseljiæi BB, Kalinovik",065/333-423,Z,4/18/1986,1804866203412,Medicinska sestra,Za stalno,48,Mjeseèno,2
+182,Bojana,Kožoviæ,"Nedaviæ BB, Kalinovik",065/347-108,Z,1/30/1984,3001844484303,Medicinska sestra,Za stalno,48,Mjeseèno,2
+183,Jagodinka,Dobriloviæ,"Omladinska BB, Kalinovik",065/215-816,Z,8/10/1967,1008676563183,Medicinska sestra,Za stalno,48,Mjeseèno,2
+184,Aleksija,Mišuriæ,"Šumadijska BB, Kalinovik",065/347-088,Z,7/25/1976,2507768182280,Medicinska sestra,Za stalno,48,Mjeseèno,2
+185,Tihoslava,Petraškoviæ,"Jelašæa BB, Kalinovik",065/371-066,Z,3/21/1989,2103899400865,Medicinska sestra,Za stalno,48,Mjeseèno,2
+186,Slavojka,Maloviæ,"Mosoroviæi BB, Kalinovik",065/370-252,Z,5/5/1989,0505893390268,Medicinska sestra,Za stalno,48,Mjeseèno,2
+187,Mirela,Krièkoviæ,"Srpskih Dobrovoljaca BB, Kalinovik",065/347-046,Z,5/7/1971,0705716164486,Medicinska sestra,Za stalno,48,Mjeseèno,2
+188,Filipina,Tetek,"Jelašæa BB, Kalinovik",065/323-724,Z,9/1/1984,0109844240838,Medicinska sestra,Za stalno,48,Mjeseèno,2
+189,Tihoslava,Vojèiæ,"Obrnja BB, Kalinovik",065/347-145,Z,1/11/1978,1101783228892,Medicinska sestra,Za stalno,48,Mjeseèno,2
+190,Živana,Perovanoviæ,"Vininska BB, Kalinovik",065/355-467,Z,1/27/1988,2701888857312,Medicinska sestra,Za stalno,48,Mjeseèno,2
+191,Lilijana,Jablanoviæ,"Karaðorðeva BB, Kalinovik",065/355-354,Z,2/25/1967,2502679590813,Medicinska sestra,Za stalno,48,Mjeseèno,3
+192,Kristijana,Nenkoviæ,"Lipovica BB, Bijeljina",065/234-889,Z,10/6/1994,0610945976340,Medicinska sestra,Za stalno,48,Mjeseèno,3
+193,Ristana,Lisov,"Vasilija Ostroškog 86, Bijeljina",065/236-676,Z,8/25/1960,2508609040559,Medicinska sestra,Za stalno,48,Mjeseèno,3
+194,Ðurðica,Kukanjac,"Pantelinska BB, Bijeljina",065/355-418,Z,1/6/1984,0601846155320,Medicinska sestra,Za stalno,48,Mjeseèno,3
+195,Stevana,Šijaèiæ,"Nikole Tesle 3/18, Bijeljina",065/347-049,Z,12/6/1978,0612781156516,Medicinska sestra,Za stalno,48,Mjeseèno,3
+196,Aleksandra,Siriški,"Dušana Radoviæa Ii/21, Bijeljina",065/370-701,Z,7/4/1978,0407787566971,Medicinska sestra,Za stalno,48,Mjeseèno,3
+197,Kaja,Glušac,"Vojvode Petra Bojoviæa 293, Bijeljina",065/214-255,Z,7/9/1960,0907607754341,Medicinska sestra,Za stalno,48,Mjeseèno,3
+198,Vuksana,Goèanin,"Janka Veselinovica 28, Bijeljina",065/355-197,Z,9/18/1985,1809859090584,Medicinska sestra,Za stalno,48,Mjeseèno,3
+199,Simona,Šubiæ,"Vladimira Gaèinoviæa BB, Bijeljina",065/355-356,Z,6/12/1989,1206893593971,Medicinska sestra,Za stalno,48,Mjeseèno,3
+200,Mlaðana,Pramenko,"Ive Andriæa L, Bijeljina",065/214-423,Z,1/17/1992,1701921438491,Medicinska sestra,Za stalno,48,Mjeseèno,3
+201,Rusa,Krnješevac,"Donji Magnojeviæ BB, Bijeljina",065/233-549,Z,8/6/1974,0608744888170,Medicinska sestra,Za stalno,48,Mjeseèno,3
+202,Višnja,Ièeliæ,"Amajlije BB, Bijeljina",065/347-045,Z,1/14/1980,1401801021936,Medicinska sestra,Za stalno,48,Mjeseèno,3
+203,Despina,Zekavièiæ,"Dragaljevac BB, Bijeljina",065/234-092,Z,10/29/1980,2910805642031,Medicinska sestra,Za stalno,48,Mjeseèno,3
+204,Slobodanka,Bumbašireviæ,"Amajlije BB, Bijeljina",065/333-047,Z,7/16/1981,1607818328596,Medicinska sestra,Za stalno,48,Mjeseèno,3
+205,Dragica,Markoèeviæ,"Crnjelovo BB, Bijeljina",065/224-259,Z,1/5/1973,0501732798841,Medicinska sestra,Za stalno,48,Mjeseèno,3
+206,Vlatka,Vuèenoviæ,"Laze Kostiæa 171, Bijeljina",065/211-185,Z,11/17/1962,1711625732076,Ginekolog,Na odreðeno,48,Sedmièno,2
+207,Živodarka,Ðurkoviæ,"Srednja Èaðavica BB, Bijeljina",065/316-200,Z,8/1/1977,0108771747537,Ginekolog,Na odreðeno,48,Sedmièno,3
+208,Agica,Rotareviæ,"Branka Radicevica 21, Bijeljina",065/355-262,Z,2/7/1963,0702639908443,Pedijatar,Za stalno,48,Sedmièno,1
+209,Milisavka,Lojanica,"Meðaši-Topolovaca BB, Bijeljina",065/323-065,Z,1/2/1974,0201745267412,Pedijatar,Na odreðeno,48,Sedmièno,2
+210,Mia,Džodanoviæ,"Amajlije BB, Bijeljina",063/554-124,Z,9/5/1972,0509724273194,Specijalista infektologije,Na odreðeno,48,Sedmièno,3
+211,Stevana,Mijuciæ,"Miljeviæi BB, Bijeljina",063/250-849,Z,2/14/1990,1402907615825,Neurolog,Na odreðeno,48,Sedmièno,2
+212,Miluka,Školopija,"Topolica BB, Bijeljina",063/383-789,Z,2/5/1986,0502866145953,Medicinska sestra,Za stalno,48,Mjeseèno,1
+213,Milana,Beukoviæ,"Sokolska 6, Bijeljina",063/554-121,Z,4/5/1974,0504741586879,Medicinska sestra,Za stalno,48,Mjeseèno,1
+214,Aina,Krnjetin,"Donji Magnojeviæ BB, Bijeljina",063/554-165,Z,12/22/1977,2212778902138,Medicinska sestra,Za stalno,48,Mjeseèno,1
+215,Gorjanka,Raoniæ,"Donji Magnojeviæ BB, Bijeljina",065/224-307,Z,7/28/1970,2807708019106,Medicinska sestra,Za stalno,48,Mjeseèno,1
+216,Adelina,Šarac,"Amajlije BB, Bijeljina",065/214-916,Z,7/3/1984,0307843076698,Medicinska sestra,Za stalno,48,Mjeseèno,1
+217,Jefimija,Ponjarac,"Modran BB, Bijeljina",065/333-660,Z,2/26/1979,2602796988145,Medicinska sestra,Za stalno,48,Mjeseèno,1
+218,Silvana,Borisavljeviæ,"Kosovska 39, Bijeljina",065/355-072,Z,6/15/1971,1506718249128,Medicinska sestra,Za stalno,48,Mjeseèno,1
+219,Verka,Vlaketiæ,"Donji Magnojeviæ BB, Bijeljina",065/231-590,Z,7/23/1990,2307906981723,Medicinska sestra,Za stalno,48,Mjeseèno,1
+220,Draga,Krstivojeviæ,"Donji Magnojeviæ BB, Bijeljina",065/323-853,Z,4/1/1989,0104891079471,Medicinska sestra,Za stalno,48,Mjeseèno,1
+221,Milica,Gmitroviæ,"Donje Crnjelovo BB, Bijeljina",065/310-236,Z,11/13/1966,1311665065022,Medicinska sestra,Za stalno,48,Mjeseèno,1
+222,Budimirka,Jevriæ,"Gornja Èaðavica BB, Bijeljina",065/211-228,Z,10/6/1983,0610836015041,Medicinska sestra,Za stalno,48,Mjeseèno,1
+223,Persa,Studoviæ,"Tabašnica BB, Bijeljina",065/211-427,Z,12/14/1964,1412643834971,Medicinska sestra,Za stalno,48,Mjeseèno,1
+224,Živana,Vujaèiæ,"Ive Andriæa 44, Bijeljina",065/355-044,Z,5/23/1968,2305683614981,Medicinska sestra,Za stalno,48,Mjeseèno,1
+225,Vlatka,Kragujevac,"Tabašnica BB, Bijeljina",065/236-671,Z,12/20/1985,2012853395896,Medicinska sestra,Za stalno,48,Mjeseèno,1
+226,Ljiljana,Zeliæ,"Donja Bukovica BB, Bijeljina",065/347-048,Z,1/24/1964,2401647885029,Medicinska sestra,Za stalno,48,Mjeseèno,1
+227,Ema,Rackov,"Budžak BB, Bijeljina",065/323-743,Z,12/3/1968,0312683495684,Akušerska sestra,Za stalno,48,Mjeseèno,1
+228,Radana,Derajiæ,"Ljeskovac BB, Bijeljina",065/232-299,Z,9/26/1984,2609841045251,Akušerska sestra,Za stalno,48,Mjeseèno,2
+229,Radna,Gentula,"Gornja Èaðavica BB, Bijeljina",065/231-379,Z,9/30/1961,3009611969334,Akušerska sestra,Za stalno,48,Mjeseèno,3
+230,Neven,Gojkov,"Donja Bukovica BB, Bijeljina",065/323-151,Z,9/25/1962,2509628467627,Akušerska sestra,Za stalno,48,Mjeseèno,1
+231,Doris,Jontiæ,"Donja Èaðavica BB, Bijeljina",065/236-803,Z,5/4/1990,0405904965344,Akušerska sestra,Za stalno,48,Mjeseèno,2
+232,Stamenka,Mirdinja,"Popovo Polje BB, Bijeljina",065/212-302,Z,3/7/1960,0703605475068,Akušerska sestra,Za stalno,48,Mjeseèno,3
+233,Krasna,Grošin,"Donja Bukovica BB, Bijeljina",065/233-038,Z,5/2/1982,0205822374608,Pulmnolog,Na odreðeno,48,Sedmièno,3
+234,Nedeljka,Pribojac,"Petra Koèiæa Do, Bijeljina",065/347-130,Z,11/21/1984,2111846270815,Psihijatar,Na odreðeno,48,Sedmièno,1
+235,Jela,Cvijiæ,"Magnojeviæ Donji BB, Bijeljina",065/347-167,Z,2/14/1983,1402835372070,Psihijatar,Na odreðeno,48,Sedmièno,2
+236,Magdalina,Kuljanèiæ,"Donja Èaðavica BB, Bijeljina",065/222-510,Z,8/9/1981,0908811770825,Onkolog,Za stalno,48,Sedmièno,1
+237,Viktorija,Velimirac,"Vršani BB, Bijeljina",065/232-132,Z,8/10/1985,1008853210634,Onkolog,Na odreðeno,48,Sedmièno,2
+238,Dobrota,Ponjeviæ,"Cara Dušana 1, Bijeljina",065/370-517,Z,5/28/1991,2805911894995,Kardiolog,Na odreðeno,48,Sedmièno,1
+239,Živoslava,Dumanoviæ,"Amajlije BB, Bijeljina",065/238-347,Z,9/11/1982,1109823635808,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+240,Vojna,Slaviæ,"Popovo Polje BB, Bijeljina",065/211-562,Z,11/9/1983,0911831383427,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+241,Miloslava,Sunajac,"Srednja Èaðavica BB, Bijeljina",065/237-188,Z,8/17/1975,1708752631409,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+242,Danijela,Senièanin,"Ugljevièka Obrijež BB, Ugljevik",065/370-552,Z,10/23/1990,2310905653323,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+243,Velimirka,Perkuèin,"Vase Pelagiæa 3, Ugljevik",065/333-801,Z,2/17/1968,1702688853740,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+244,Maja,Radivojšiæ,"Ugljevièka BB, Ugljevik",065/370-553,Z,2/3/1988,0302886984360,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+245,Staša,Mirèeviæ,"Ugljevièka BB, Ugljevik",065/370-650,Z,4/9/1982,0904826338376,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+246,Dobrina,Šain,"Ugljevièka Obrijež BB, Ugljevik",065/335-259,Z,1/15/1985,1501857370934,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+247,Irina,Boltiæ,"Ugljevièka Obrijež BB, Ugljevik",065/233-441,Z,3/19/1963,1903635140756,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+248,Valentina,Damnjanac,"Bogutovo Selo BB, Ugljevik",065/237-431,Z,12/26/1980,2612808189794,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+249,Dragojla,Miljakoviæ,"Trg Æirila I Metodija 1, Ugljevik",065/237-388,Z,3/23/1981,2303813087413,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+250,Silvana,Mamula,"Gornje Zabrðe BB, Ugljevik",065/215-044,Z,12/19/1975,1912751240613,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+251,Boba,Pozderoviæ,"Karaðorðeva Lam C Sprat 2, Ugljevik",065/311-062,Z,4/15/1991,1504916321138,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+252,Nada,Dragojlov,"Ugljevièka Obrijež BB, Ugljevik",065/237-156,Z,4/12/1985,1204856951495,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+253,Smiljka,Bolta,"Ugljevièka Obrijež BB, Ugljevik",065/232-460,Z,10/11/1966,1110668161936,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+254,Bratislava,Gladanac,"Ugljevièka Obrijež BB, Ugljevik",065/211-441,Z,1/4/1975,0401753197040,Direktor,Na odreðeno,48,Mjeseèno,1
+255,Ilinka,Božijeviæ,"Svetog Save 31, Ugljevik",065/222-244,Z,7/23/1970,2307708509440,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+256,Slaðana,Laliæ,"Kapetana Leke 10, Ugljevik",065/216-184,Z,9/29/1986,2909866155384,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+257,Ada,Èaroviæ,"Kapetana Leke 1, Ugljevik",065/236-443,Z,1/23/1983,2301833310527,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+258,Larisa,Krstiæ,"Gavriæi BB, Doboj",065/323-156,Z,10/25/1979,2510794845983,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+259,Bojka,Bradonjiæ,"Orašje BB, Doboj",065/236-741,Z,1/21/1962,2101628012182,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+260,Zlata,Topiæ,"Nikole Tesle 39, Doboj",065/311-073,Z,5/11/1981,1105816061860,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+261,Milica,Avakumoviæ,"Dobojskih Brigada BB, Doboj",065/216-877,Z,11/16/1972,1611725046148,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+262,Radoslava,Æosiæ,"Usora-Novo Naselje BB, Doboj",065/233-098,Z,12/13/1986,1312869307767,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+263,Marijana,Oparnica,"Srpskih Dobrovoljaca 21/75, Doboj",065/334-246,Z,8/7/1969,0708699413047,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+264,Alena,Božiæ,"Donja Ostružnja BB, Doboj",065/311-063,Z,6/29/1993,2906934434940,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+265,Cvijeta,Belanèiæ,"Vidovdanska E1/22/18, Doboj",065/334-196,Z,3/17/1966,1703662720665,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+266,Ekaterina,Stojadinèeviæ,"Raška 63, Doboj",066/772-447,Z,7/21/1970,2107703091599,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+267,Jablana,Pisareviæ,"Orašje BB, Doboj",066/771-617,Z,10/26/1970,2610705465802,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+268,Milutinka,Šoklovaèki,"Brðani BB, Doboj",066/772-638,Z,11/26/1976,2611764002556,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+269,Borjana,Šljapiæ,"Zorani BB, Doboj",066/772-019,Z,6/11/1981,1106815534156,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+270,Stevanka,Bijaniæ,"Æuprijska 22, Doboj",066/771-139,Z,6/11/1961,1106612544901,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+271,Kata,Jeleniæ,"Kožuhe BB, Doboj",066/772-575,Z,8/27/1970,2708702435079,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+272,Desa,Stanuloviæ,"Svetog Save 35, Doboj",066/778-203,Z,2/19/1984,1902845704994,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+273,Naða,Sretiæ,"Usora-Novo Naselje BB, Doboj",066/771-096,Z,5/8/1966,0805667997738,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+274,Tijana,Lièina,"Osjeèani BB, Doboj",066/771-620,Z,1/29/1979,2901794487279,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+275,Lada,Pleæeviæ,"Vidovdanska L-B3-23, Doboj",066/377-329,Z,5/11/1987,1105875474401,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+276,Borika,Gluhoviæ,"Kožuhe BB, Doboj",066/241-150,Z,4/17/1992,1704922210335,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+277,Vasilija,Šiæeviæ,"Vojvode Živojina Mišiæa BB, Doboj",066/551-074,Z,3/8/1982,0803823904743,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+278,Srebrena,Bratiæ,"Gornja Ostružnja BB, Doboj",066/330-121,Z,12/1/1979,0112795662130,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+279,Stana,Stanisavac,"Aerodrom BB, Doboj",066/350-909,Z,3/15/1987,1503879856791,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+280,Milosavka,Graboviæ,"Ražljevo 76, Lopare",066/330-594,Z,4/2/1976,0204767995052,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+281,Ana,Beogradac,"Peljave BB, Lopare",066/380-241,Z,5/16/1980,1605806310232,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+282,Vukosava,Jelašiæ,"Kozjak 24, Lopare",066/394-343,Z,1/27/1961,2701614083373,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+283,Negovanka,Bajèeta,"Cara Dušana BB, Lopare",066/215-097,Z,8/15/1982,1508823117363,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+284,Alekseja,Eæim,"Pirkovci BB, Lopare",066/215-674,Z,2/18/1982,1802826223178,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+285,Gvozdenija,Mileusniæ,"Maèkovac BB, Lopare",066/215-150,Z,12/17/1977,1712776270683,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+286,Drenka,Bušatoviæ,"Cara Dušana B-11, Lopare",066/546-276,Z,10/8/1971,0810711264114,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+287,Višeslava,Zipanèiæ,"Vukosavci BB, Lopare",066/379-839,Z,6/30/1974,3006747858742,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+288,Ðurða,Divèeviæ,"Vakuf BB, Lopare",066/250-669,Z,11/23/1972,2311724151150,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+289,Najda,Šinik,"Jablanica BB, Lopare",063/215-396,Z,2/4/1983,0402831672918,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+290,Verka,Sokolovac,"Piperi BB, Lopare",063/383-414,Z,3/18/1969,1803691250919,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+291,Miluša,Mareliæ,"Mrtvica BB, Lopare",063/217-241,Z,4/28/1967,2804676823720,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+292,Kupina,Ðikanoviæ,"Vakuf BB, Lopare",063/394-228,Z,1/10/1990,1001904644063,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+293,Svetislava,Bušiæ,"Piperi BB, Lopare",063/392-597,Z,11/4/1977,0411778557472,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+294,Milodarka,Kukoleèa,"Maèkovac BB, Lopare",063/330-242,Z,5/19/1966,1905661634031,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+295,Radoslava,Milicanoviæ,"Vojvode Stepe BB, Prijedor",063/546-253,Z,7/8/1966,0807668580349,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+296,Beloslava,Ðurðulov,"Majora Milana Tepica 3, Prijedor",063/332-254,Z,9/15/1964,1509649939515,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+297,Dobrosava,Pleæaš,"Bistrica BB, Prijedor",063/210-467,Z,8/29/1964,2908649729027,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2
+298,Adrijana,Korica,"Lamovita BB, Prijedor",063/377-285,Z,3/22/1994,2203942315073,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,3
+299,Valentina,Forgiæ,"Bistrica BB, Prijedor",063/201-851,Z,9/4/1972,0409723311005,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,1
+300,Belunka,Polimèeviæ,"Pecani G1, Prijedor",063/554-128,Z,4/12/1974,1204743459698,Mlaða medicinska sestra,Za stalno,48,Mjeseèno,2

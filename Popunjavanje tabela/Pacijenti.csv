@@ -1,0 +1,701 @@
+JIB_PACIJENTA,IME,PREZIME,ADRESA,JMBG,DATUM_RODJ,POL,BRACNO_STANJE,DATUM_PRIJEMA,BROJ_TEL_RODJAKA,BROJ_TEL_DR_OPSTE_PRAKSE,SRODSTVO_SOS_SA_PACIJENTOM
+1,Trivun,Simatoviæ,"1. Maj BB, Foèa",2505731454415,5/25/1973,M,oženjen,8/1/2020,056/210-767,058/214-817,majka
+2,Ratko,Plavljanin,"1. Maj BB, Foèa",1808168510839,8/18/2016,M,neoženjen,7/23/2020,056/260-249,058/214-817,prijatelj
+3,Dojèilo,Šekularac,"17.Aprila B/1, Bratunac",0510122371592,10/5/2012,M,neoženjen,7/23/2020,056/260-711,056/490-417,otac
+4,Anastas,Araðanin,"17.Aprila I-I7, Bratunac",1002152070893,2/10/2015,M,neoženjen,7/31/2020,056/480-141,056/490-417,majka
+5,Radmilo,Serafimoviæ,"17.Aprila V, Bratunac",1908384090508,8/19/1938,M,oženjen,7/8/2020,056/480-174,056/490-417,žena
+6,Simo,Janiæeviæ,"17.Aprila BB, Bratunac",2311888450570,11/23/1988,M,oženjen,7/12/2020,056/480-194,056/490-417,roðak
+7,Josif,Graèanin,"29.novembra BB, Bratunac",0805513373538,5/8/1951,M,oženjen,7/27/2020,056/480-242,056/490-419,roðak
+8,Bogosav,Gaševiæ,"Aleksina Meða BB, Trebinje",0904377816442,4/9/1937,M,oženjen,7/28/2020,056/480-248,+387 59 261-352,žena
+9,Vladoje,Vujatoviæ,"Amajlije BB, Bijeljina",1309396372179,9/13/1939,M,oženjen,7/29/2020,056/480-291,055/416-016,roðak
+10,Vujoš,Ilijiæ,"Amajlije BB, Bijeljina",2509958700780,9/25/1995,M,oženjen,7/2/2020,056/480-296,055/416-016,brat
+11,Veran,Josimoviæ,Amajlije Novo,0510916494841,10/5/1991,M,oženjen,7/20/2020,056/480-299,055/416-016,žena
+12,Borivoje,Poskurica,"Aranðelovo BB, Lastva",2601446149435,1/26/1944,M,oženjen,7/6/2020,056/480-300,+387 59 261-353,žena
+13,Radun,Šabadin,"Baèiæi bb, Miliæi",1607594193970,7/16/1959,M,oženjen,7/13/2020,056/480-301,056/211-101,roðak
+14,Rasim,Borikiæ,"Baèiæi bb, Miliæi",0505618809978,5/5/1961,M,oženjen,7/16/2020,056/480-304,056/211-101,roðak
+15,Draško,Stankoviæ,"Bakraèiæi 2, Bijeljina",2707441333965,7/27/1944,M,oženjen,7/24/2020,056/480-305,055/416-016,sin
+16,Vlatko,Grubanoviæ,"Bakraèiæi BB, Bijeljina",1905719946045,5/19/1971,M,oženjen,7/27/2020,056/480-542,055/416-016,rodica
+17,Jona,Trivunèeviæ,"Balatun BB, Bijeljina",0806119113111,6/8/2011,M,neoženjen,7/27/2020,056/480-621,055/416-019,majka
+18,Ostoja,Ðuriæ,"Balatun BB, Bijeljina",1203435306654,3/12/1943,M,oženjen,7/23/2020,056/480-622,055/416-016,brat
+19,Tomica,Kovaèeviæ,"Balatun BB, Bijeljina",0211125508079,11/2/2012,M,neoženjen,7/15/2020,056/480-623,055/416-016,otac
+20,Dukadin,Panduroviæ,"Baljevo Polje BB, Brod",2012025034054,12/20/2002,M,oženjen,7/8/2020,056/480-624,058/214-813,žena
+21,Jovka,Živaniæ,"Banjevci BB, Trebinje",2110071447464,10/21/2007,M,neoženjen,7/25/2020,056/480-626,+387 59 261-353,brat
+22,Arsen,Priljeva,"BaraKovaè BB, Foèa",2611472933018,11/26/1947,M,oženjen,7/13/2020,056/480-790,058/214-813,roðak
+23,Jugoslav,Saviæ,"BaraKovaè BB, Foèa",3009558144235,9/30/1955,M,oženjen,7/31/2020,056/480-795,058/214-817,brat
+24,Atanasije,Sanduloviæ,"Bare 16, Miliæi",0907524992380,7/9/1952,M,oženjen,7/2/2020,056/480-796,056/211-101,brat
+25,Novak,Seèivanoviæ,"Bare 18, Miliæi",0310657189489,10/3/1965,M,oženjen,7/9/2020,056/480-797,056/211-101,rodica
+26,Milanko,Sentin,"Bare 21, Miliæi",2505496076073,5/25/1949,M,oženjen,7/10/2020,056/480-798,056/211-101,brat
+27,Stanoja,Buliæ,"Bare 65, Miliæi",0709727436886,9/7/1972,M,oženjen,7/17/2020,056/480-799,056/211-101,roðak
+28,Anðelko,Macanoviæ,"Bare BB, Donja Pilica",2406662476221,6/24/1966,M,oženjen,7/26/2020,056/480-835,056/211-102,roðak
+29,Novak,Božaniæ,"Bare bb, Miliæi, Miliæi",2710726326445,10/27/1972,M,oženjen,7/19/2020,056/480-836,056/211-101,roðak
+30,Svetoslav,Jašoviæ,"Batkoviæ BB, Bijeljina",2505799286994,5/25/1979,M,oženjen,7/24/2020,056/480-838,055/416-016,roðak
+31,Vugdrag,Cetina,"Beleni BB, Brod",2909126414767,9/29/2012,M,neoženjen,7/27/2020,056/480-907,058/214-812,otac
+32,Miroje,Mosuroviæ,"Beogradska BB, Foèa",0208556763562,8/2/1955,M,oženjen,7/2/2020,056/480-908,058/214-811,roðak
+33,Milijan,Misaljeviæ,"Beogradska BB, Foèa",1807024078400,7/18/2002,M,oženjen,7/28/2020,056/480-926,058/214-813,majka
+34,Stanivoje,Nièiæ,"Beogradska BB, Foèa",2907017468976,7/29/2001,M,oženjen,7/26/2020,056/482-015,058/214-817,rodica
+35,Kostadin,Blagovèanin,"Beogradska BB, Foèa",1602124919122,2/16/2012,M,neoženjen,7/27/2020,056/482-015,058/214-817,majka
+36,Grujica,Milidragoviæ,"Bijelo Polje bb, Miliæi",2303496996746,3/23/1949,M,oženjen,7/9/2020,056/482-074,056/211-101,roðak
+37,Sava,Medar,"Bijelo Polje bb, Miliæi",0602639697189,2/6/1963,M,oženjen,7/3/2020,056/482-077,056/211-101,roðak
+38,Sredoja,Spremiæ,"Bileæki Put 32, Trebinje",1909611896702,9/19/1961,M,oženjen,7/22/2020,056/482-080,+387 59 261-350,roðak
+39,Dragovan,Jokièiæ,"Birèanska bb, Miliæi",0603441763371,3/6/1944,M,oženjen,7/25/2020,056/482-081,056/211-100,rodica
+40,Vuilo,Baraèanin,"Bjeloševac BB, Bijeljina",2906666871199,6/29/1966,M,oženjen,8/1/2020,056/482-083,055/416-019,rodica
+41,Teodosije,Adam,"Bogutovaèka 15, Ugljevik",0109805047014,9/1/1980,M,oženjen,7/17/2020,056/482-092,055/416-019,roðak
+42,Željko,Miroševiæ,"Borija BB, Kalinovik",1602085382651,2/16/2008,M,neoženjen,7/2/2020,056/482-093,057/340-169,roðak
+43,Martin,Jonoviæ,"Božanoviæi BB, Kalinovik",2402551560431,2/24/1955,M,oženjen,7/27/2020,056/482-163,057/340-169,roðak
+44,Drakša,Iliševiæ,"Božanoviæi BB, Kalinovik",0912168486471,12/9/2016,M,neoženjen,7/19/2020,056/482-164,057/340-169,otac
+45,Srboslav,Vilovaèki,"Božanoviæi BB, Kalinovik",1605925829848,5/16/1992,M,oženjen,7/1/2020,056/482-168,057/340-169,roðak
+46,Daroslav,Tamindžiæ,"Braæe Jeremiæa BB, Foèa",0212009437998,12/2/2000,M,oženjen,7/22/2020,056/482-169,058/214-817,roðak
+47,Ninko,Aguridiæ,"Braæe Jugoviæ BB, Zvornik",1703989565953,3/17/1998,M,oženjen,7/11/2020,056/482-176,056/211-102,roðak
+48,Jagoš,Miskin,"Braæe Jugoviæa BB, Zvornik",1106843817716,6/11/1984,M,oženjen,7/15/2020,056/482-225,056/211-111,roðak
+49,Nenad,Kojèinoviæ,"Branka Æopiæa BB, Foèa",0507719140965,7/5/1971,M,oženjen,7/21/2020,056/482-226,058/214-817,roðak
+50,Borko,Crepuljareviæ,"Branka Æopiæa BB, Foèa",1906942869961,6/19/1994,M,oženjen,7/6/2020,056/482-237,058/214-817,roðak
+51,Sreten,Karèiæ,"Branka Æopiæa BB, Foèa",2007491182300,7/20/1949,M,udovac,7/8/2020,056/482-242,058/214-817,roðak
+52,Golub,Nediæ,"Bratunac BB, Bratunac",3005534566276,5/30/1953,M,oženjen,7/29/2020,056/482-243,056/490-419,roðak
+53,Justin,Aškrabiæ,"Bratunac BB, Bratunac",2201136764477,1/22/2013,M,neoženjen,7/14/2020,056/482-244,056/490-417,majka
+54,Cvetiša,Ercegovac,"Bratunac Ježestica/BB, Bratunac",1808043074321,8/18/2004,M,oženjen,7/29/2020,056/482-248,056/490-417,stric
+55,Dabiša,Gligorin,"Bratunac Kravica/BB, Bratunac",0405902098798,5/4/1990,M,oženjen,7/30/2020,056/482-313,056/490-417,roðak
+56,Vuèiæ,Durleviæ,"Bratunac Kravica/BB, Bratunac",0604178964260,4/6/2017,M,neoženjen,7/14/2020,056/482-340,056/490-417,otac
+57,Svetibor,Toškoviæ,"Bratunac BB, Bratunac",1809094675429,9/18/2009,M,neoženjen,7/10/2020,056/482-435,056/490-417,majka
+58,Isidor,Vujèetiæ,"Brðani BB, Bijeljina",0412714812305,12/4/1971,M,oženjen,7/23/2020,056/482-464,055/416-016,roðak
+59,Jug,Biberoviæ,"Brod BB, Brod",2602092184372,2/26/2009,M,neoženjen,7/23/2020,056/482-468,058/214-817,majka
+60,Andrej,Gligorijeviæ,"Brod BB, Brod",0510899957792,10/5/1989,M,oženjen,7/16/2020,056/482-510,058/214-817,roðak
+61,Vukman,Ludoški,"Brod BB, Brod",2311152195558,11/23/2015,M,neoženjen,7/21/2020,056/211-850,058/214-817,majka
+62,Radula,Išvan,"Brusna BB, Foèa",1508383328378,8/15/1938,M,udovac,7/21/2020,056/232-395,058/214-812,roðak
+63,Rastislav,Kleverniæ,"Budoši BB, Mosko",1712855710607,12/17/1985,M,oženjen,7/30/2020,056/318-423,+387 59 261-350,roðak
+64,Stefan,Sosa,"Bukoviæa BB, Brod",1312574657539,12/13/1957,M,oženjen,7/6/2020,056/212-008,058/214-817,roðak
+65,Borislav,Dobriæ,"Bunovi BB, Brod",0507768363865,7/5/1976,M,oženjen,7/16/2020,056/213-977,058/214-817,roðak
+66,Velièko,Crnadak,"Èaðavica BB, Bijeljina",0208665420121,8/2/1966,M,oženjen,7/22/2020,056/215-531,055/416-016,sestra
+67,Danojlo,Despiæ,Cara Dušana 46,1506533839577,6/15/1953,M,udovac,7/17/2020,056/334-001,055/416-019,roðak
+68,Vojislav,Lomas,"Cara Dušana BB, Foèa",2006724228106,6/20/1972,M,oženjen,7/1/2020,056/391-555,058/214-817,roðak
+69,Radimir,Sladiæ,"Cara Lazara BB, Foèa",2510409524585,10/25/1940,M,udovac,7/2/2020,056/270-451,058/214-811,roðak
+70,Bogoboj,Matijaš,"Cara Lazara BB, Foèa",2008062648644,8/20/2006,M,neoženjen,7/21/2020,056/215-999,058/214-812,majka
+71,Živanko,Barièanin,"Cara Lazara BB, Foèa",0506471179637,6/5/1947,M,oženjen,7/7/2020,056/260-099,058/214-817,roðak
+72,Bojèeta,Olujiæ,"Cara Lazara BB, Foèa",2712803659286,12/27/1980,M,oženjen,7/29/2020,056/315-243,058/214-817,roðak
+73,Cvetašin,Šurbatoviæ,"Cara Lazara BB, Foèa",1012182206396,12/10/2018,M,neoženjen,7/3/2020,056/210-038,058/214-817,otac
+74,Tvrtko,Stankov,"Cardacine BB, Bijeljina",1006855950445,6/10/1985,M,oženjen,7/21/2020,056/261-655,055/416-018,roðak
+75,Ljubiša,Dobreèeviæ,"Èelopek Ulice, Zvornik",0211372067697,11/2/1937,M,neoženjen,7/25/2020,056/482-382,056/211-102,roðak
+76,Bogoboj,Natoševiæ,"Èelopek BB, Zvornik",2912018594921,12/29/2001,M,oženjen,7/2/2020,056/393-172,056/211-111,roðak
+77,Živanko,Trišiæ,"Èelopek BB, Zvornik",2405645362173,5/24/1964,M,oženjen,7/5/2020,056/213-258,056/211-111,roðak
+78,Oleg,Zmijanoviæ,"Èengiæ BB, Bijeljina",0107428791310,7/1/1942,M,udovac,7/22/2020,056/393-565,055/416-018,roðak
+79,Mirèeta,Æeramilac,"Èengiæ BB, Bijeljina",0912103886304,12/9/2010,M,neoženjen,7/15/2020,056/484-177,055/416-018,otac
+80,Slaviša,Bobot,"Èengiæ BB, Bijeljina",0904702704683,4/9/1970,M,oženjen,7/17/2020,056/480-736,055/416-019,roðak
+81,Vikentije,Vojimiroviæ,"Cerska 10, Trebinje",0511803993878,11/5/1980,M,oženjen,7/4/2020,056/214-183,+387 59 261-353,roðak
+82,Vukomir,Ajkoviæ,"Crnjelovo Gornje BB, Bijeljina",3005039745980,5/30/2003,M,oženjen,7/20/2020,056/270-370,055/416-018,roðak
+83,Bona,Deliblaæanin,"Crnogorska BB, Gorica",2507626452940,7/25/1962,M,oženjen,7/16/2020,056/318-025,+387 59 261-353,roðak
+84,Adrijan,Opsenica,"Danguba BB, Bijeljina",1806053307297,6/18/2005,M,neoženjen,7/25/2020,056/393-422,055/416-016,stric
+85,Ninko,Èipliæ,"Dazdarevo BB, Bijeljina",1412901082894,12/14/1990,M,oženjen,7/14/2020,056/376-131,055/416-019,roðak
+86,Zvezdan,Putnik,"Dazdarevo BB, Bijeljina",1312725291901,12/13/1972,M,oženjen,7/7/2020,056/260-116,055/416-016,rodica
+87,Šujica,Kukavica,"Ðeðevo BB, Brod",1407548623291,7/14/1954,M,oženjen,7/28/2020,056/330-109,058/214-812,rodica
+88,Sandro,Vojinoviæ,"Dejtonska BB, Foèa",1105019084626,5/11/2001,M,oženjen,7/3/2020,056/373-111,058/214-817,roðak
+89,Zlatko,Bumba,"Ðevanje BB, Ðevanje",0502395724901,2/5/1939,M,udovac,7/14/2020,056/210-910,056/211-102,roðak
+90,Ðukan,Seleèanin,"Dijelovi BB, Bijeljina",1303931830151,3/13/1993,M,oženjen,7/7/2020,056/393-320,055/416-016,roðak
+91,Jerotije,Beloica,"Ðile bb, Miliæi",2311824095475,11/23/1982,M,oženjen,7/3/2020,056/395-088,056/211-100,roðak
+92,Golub,Stanèuloviæ,Dimitrije Tucoviæa 26,1902144355461,2/19/2014,M,neoženjen,7/7/2020,056/330-424,055/416-016,otac
+93,Vukaè,Mabetoviæ,Dimitrije Tucoviæa 90,1603753821041,3/16/1975,M,oženjen,7/5/2020,056/261-211,055/416-018,roðak
+94,Jug,Kasum,"Dobro Polje BB, Kalinovik",1403196551971,3/14/2019,M,neoženjen,7/13/2020,056/261-502,057/340-169,roðak
+95,Ljubodrag,Stranjanac,"Dobro Polje BB, Kalinovik",1005196676527,5/10/2019,M,neoženjen,7/18/2020,056/393-193,057/340-169,roðak
+96,Stane,Tovirac,"Dobro Polje BB, Kalinovik",0311475814859,11/3/1947,M,oženjen,7/4/2020,056/211-021,057/340-169,rodica
+97,Hranisav,Šobiæ,"Doktora Levija 13, Trebinje",1206671506915,6/12/1967,M,oženjen,7/22/2020,056/488-852,+387 59 261-351,roðak
+98,Ðurko,Grobenski,"Doktora Levija Br.1, Trebinje",0111169132954,11/1/2016,M,neoženjen,8/1/2020,056/398-023,+387 59 261-353,roðak
+99,Sergej,Bicanoviæ,"Doktora Levija BB, Trebinje",3003627395234,3/30/1962,M,oženjen,7/5/2020,056/318-162,+387 59 261-350,roðak
+100,Leonid,Puketa,"Dol BB, Ugljevik",1401608054298,1/14/1960,M,oženjen,7/19/2020,056/270-541,055/416-019,roðak
+101,Cvjetoš,Ðomparin,"Dolovi BB, Gorica",2703823167159,3/27/1982,M,oženjen,7/16/2020,056/483-481,+387 59 261-353,roðak
+102,Vedran,Neveniæ,"Donja Èaðavica-Novi BB, Bijeljina",0612987656919,12/6/1998,M,oženjen,7/22/2020,056/261-148,055/416-019,roðak
+103,Slaðan,Ivanov,"Donje Crnjelovo BB, Bijeljina",1708031443529,8/17/2003,M,oženjen,7/12/2020,056/261-673,055/416-019,roðak
+104,Milijas,Èarapiæ,"Donje Crnjelovo BB, Bijeljina",1101081084002,1/11/2008,M,neoženjen,7/18/2020,056/391-181,055/416-016,roðak
+105,Bogoslav,Maoduš,"Donje Crnjelovo BB, Bijeljina",2903577880475,3/29/1957,M,oženjen,7/29/2020,056/391-041,055/416-016,roðak
+106,Tadija,Lozo,"Donje Podgljivlje BB, Gorica",1011995456037,11/10/1999,M,oženjen,7/27/2020,056/315-150,+387 59 261-350,roðak
+107,Joviša,Batanjac,"Donje Podgljivlje BB, Gorica",1510128438755,10/15/2012,M,neoženjen,7/8/2020,056/334-077,+387 59 261-353,rodica
+108,Mileta,Bogovaèki,"Donji Brodac BB, Bijeljina",1303381100004,3/13/1938,M,udovac,7/28/2020,056/650-239,055/416-016,roðak
+109,Tasa,Karaman,"Donji Brodac BB, Bijeljina",1506071136068,6/15/2007,M,neoženjen,7/10/2020,056/211-600,055/416-016,roðak
+110,Rusin,Milivojeviæ,"Donji Brodac BB, Bijeljina",2002629059275,2/20/1962,M,oženjen,7/25/2020,056/310-907,055/416-016,rodica
+111,Radimir,Moravac,"Donji Brodac BB, Bijeljina",2311192080798,11/23/2019,M,neoženjen,7/6/2020,056/318-179,055/416-016,roðak
+112,Boja,Teovanoviæ,"Donji Dragaljevac BB, Bijeljina",2311538999635,11/23/1953,M,oženjen,8/1/2020,056/215-528,055/416-016,roðak
+113,Boin,Miljeviæ,"Dositeja Obradoviæa BB, Bratunac",2704936682729,4/27/1993,M,oženjen,7/6/2020,056/214-618,056/490-417,rodica
+114,Radiša,Antoviæ,"Dr.Jovana Cvijiæa BB, Trebinje",1407126729628,7/14/2012,M,neoženjen,7/31/2020,056/214-841,+387 59 261-351,roðak
+115,Bojan,Milenoviæ,"Dragaljevac BB, Bijeljina",2509956776577,9/25/1995,M,oženjen,7/12/2020,056/393-127,055/416-016,roðak
+116,Dragovan,Ivošev,"Dragaljevac BB, Bijeljina",3105879981233,5/31/1987,M,oženjen,7/28/2020,056/483-834,055/416-016,roðak
+117,Miladin,Pešiæ,"Dragoèava BB, Foèa",1710618698157,10/17/1961,M,oženjen,7/13/2020,056/318-259,058/214-817,roðak
+118,Rodislav,Vlajoviæ,"Dragojeviæi BB, Foèa",1107834740294,7/11/1983,M,oženjen,7/13/2020,056/318-158,058/214-817,roðak
+119,Timotej,Pažin,"Dragojeviæi BB, Foèa",1308457456493,8/13/1945,M,udovac,7/2/2020,056/214-351,058/214-817,roðak
+120,Cvijan,Telenta,"Dražin Do BB, Trebinje",0306531763733,6/3/1953,M,oženjen,8/1/2020,056/318-376,+387 59 261-353,rodica
+121,Svetoslav,Minèiæ,"Drinjaèa BB, Drinjaèa",1501132873448,1/15/2013,M,neoženjen,7/19/2020,056/411-331,056/211-111,majka
+122,Dragiæ,Aæimiæ,"Drinska BB, Bratunac",0307577457478,7/3/1957,M,oženjen,7/8/2020,056/410-907,056/490-417,majka
+123,Tasa,Igrutinoviæ,"Drinska BB, Bratunac",2303195726654,3/23/2019,M,neoženjen,7/24/2020,056/465-326,056/490-417,roðak
+124,Dragosav,Cvjetanoviæ,"Drinska BB, Bratunac",0212155108145,12/2/2015,M,neoženjen,7/2/2020,056/410-367,056/490-417,roðak
+125,Ðenadije,Ðokoviæ,"Dubnica bb, Miliæi",2001006547371,1/20/2000,M,oženjen,7/27/2020,056/410-807,056/211-101,otac
+126,Dobrilo,Kakuæa,"Ðurðeviæi 48, Milici",3009412066895,9/30/1941,M,oženjen,7/4/2020,056/412-030,056/211-101,roðak
+127,Gvozden,Škodriæ,"Durmitorska BB, Foèa",1907753894535,7/19/1975,M,oženjen,7/31/2020,056/410-703,058/214-813,roðak
+128,Hrabar,Josifljeviæ,"Dušana Radoviæa 2 -1, Bijeljina",0202188871858,2/2/2018,M,neoženjen,7/26/2020,056/482-418,055/416-016,rodica
+129,Vukota,Dobrojeviæ,Dušana Radoviæa 74,0105363806147,5/1/1936,M,udovac,7/16/2020,056/411-399,055/416-018,roðak
+130,Krstimir,Dedoviæ,"Dušanova 14, Trebinje",1701979161502,1/17/1997,M,oženjen,7/12/2020,056/410-419,+387 59 261-352,roðak
+131,Milenko,Moraèiæ,"Dušanova 19, Trebinje",2601387905318,1/26/1938,M,oženjen,7/20/2020,056/482-305,+387 59 261-350,roðak
+132,Srebren,Lompar,"Dušanova 5, Trebinje",1406155788612,6/14/2015,M,neoženjen,7/29/2020,056/410-882,+387 59 261-351,roðak
+133,Vlajko,Mikolinac,"Dvorovi BB, Bijeljina",1907056247724,7/19/2005,M,oženjen,8/1/2020,056/410-450,055/416-019,roðak
+134,Tanasije,Stojadinèeviæ,"Dvorovi BB, Bijeljina",0612389283652,12/6/1938,M,oženjen,7/10/2020,056/480-770,055/416-016,roðak
+135,Gojko,Kovinjalo,"Gajiæi BB, Bijeljina",3101933022268,1/31/1993,M,oženjen,7/27/2020,056/483-627,055/416-018,roðak
+136,Vlada,Dokniæ,"Gataèka BB, Kalinovik",1009979805811,9/10/1997,M,oženjen,7/31/2020,056/410-529,057/340-169,roðak
+137,Zdravoljub,Èoèuriæ,"Gataèka BB, Kalinovik",3108512506012,8/31/1951,M,udovac,7/18/2020,056/410-366,057/340-169,roðak
+138,Mitar,Vlasonjiæ,"Gataèka BB, Kalinovik",1906184855499,6/19/2018,M,neoženjen,7/29/2020,056/411-054,057/340-169,rodica
+139,Goran,Bežaniæ,"Gataèka BB, Kalinovik",1906952670771,6/19/1995,M,oženjen,8/1/2020,056/412-059,057/340-169,roðak
+140,Toma,Raviliæ,"Gataèka BB, Kalinovik",0802184348310,2/8/2018,M,neoženjen,7/23/2020,056/411-828,057/340-169,roðak
+141,Vukmilj,Stojèetoviæ,"Gataèka BB, Kalinovik",2106484065218,6/21/1948,M,udovac,7/27/2020,056/410-336,057/340-169,majka
+142,Miloslav,Rutoviæ,"Gavrila Principa 4, Bratunac",0601109261913,1/6/2010,M,neoženjen,7/6/2020,056/411-359,056/490-417,roðak
+143,Genadije,Šapiæ,"Gavrila Principa BB, Bijeljina",3108838088608,8/31/1983,M,oženjen,7/31/2020,056/411-555,055/416-016,rodica
+144,Bojadin,Negoiciæ,"Glavièice BB, Donja Pilica",0209613299365,9/2/1961,M,oženjen,7/1/2020,056/480-599,056/211-102,roðak
+145,Oliver,Kajganiæ,"Glumina BB, Gušteri",2911023883746,11/29/2002,M,oženjen,7/7/2020,056/410-614,056/211-111,rodica
+146,Tomo,Paunoviæ,"Goloèevina bb, Miliæi",0108615709664,8/1/1961,M,oženjen,7/7/2020,056/410-123,056/211-101,rodica
+147,Branivoje,Radešiæ,"Goloèevina bb, Miliæi",0505529521434,5/5/1952,M,oženjen,7/14/2020,056/482-431,056/211-101,roðak
+148,Gojko,Ðurðevaèki,"Gorica 78, Gorica",0802733716189,2/8/1973,M,oženjen,7/18/2020,056/410-507,+387 59 261-351,roðak
+149,Pero,Stojimirov,"Gorica 96, Gorica",0503971772400,3/5/1997,M,oženjen,7/8/2020,056/410-379,+387 59 261-352,roðak
+150,Srdan,Ilijin,"Gorica BB, Trebinje",3001534619315,1/30/1953,M,oženjen,7/29/2020,056/410-496,+387 59 261-353,roðak
+151,Zvonko,Manasijeviæ,"Gorièko Polje BB, Trebinje",0802728675032,2/8/1972,M,oženjen,7/17/2020,056/411-196,+387 59 261-353,roðak
+152,Nastas,Èordašiæ,"Gornja Èaðavica BB, Bijeljina",1802366504112,2/18/1936,M,oženjen,7/2/2020,056/411-095,055/416-018,roðak
+153,Vjekoslav,Baraæ,"Gornja Pilica BB, Pilica",1009837754410,9/10/1983,M,oženjen,7/31/2020,056/410-396,056/211-111,roðak
+154,Cvetan,Živaljeviæ,"Gornje Crnjelovo BB, Bijeljina",1901436615074,1/19/1943,M,oženjen,7/10/2020,056/410-690,055/416-016,roðak
+155,Dobrivoje,Skaluševiæ,"Gornje Police 58, Trebinje",2102844541398,2/21/1984,M,oženjen,7/28/2020,056/410-625,+387 59 261-353,rodica
+156,Vid,Vraneš,"Gornje Police BB, Trebinje",3005703491459,5/30/1970,M,oženjen,7/23/2020,056/482-973,+387 59 261-351,rodica
+157,Dragiša,Stamatoviæ,"Gornji Zalukovik bb, Miliæi",1506911237850,6/15/1991,M,oženjen,7/20/2020,056/410-493,056/211-101,roðak
+158,Beran,Ružièiæ,"Gradac BB, Foèa",1612702585056,12/16/1970,M,oženjen,7/13/2020,056/465-080,058/214-817,roðak
+159,Filiman,Bliznakoviæ,"Gradac BB, Foèa",2708828913064,8/27/1982,M,oženjen,7/3/2020,056/410-716,058/214-817,roðak
+160,Gradiša,Gadžiæ,"Gradina BB, Kalinovik",1703628579965,3/17/1962,M,oženjen,7/1/2020,056/411-840,057/340-169,roðak
+161,Jevrem,Ðerkoviæ,"Gradina BB, Kalinovik",0407025810731,7/4/2002,M,oženjen,7/22/2020,056/410-932,057/340-169,roðak
+162,Budimir,Tauz,"Gradina BB, Trebinje",1704065685591,4/17/2006,M,neoženjen,7/22/2020,056/465-152,+387 59 261-353,roðak
+163,Jona,Leginoviæ,"Graiseljiæi BB, Kalinovik",0209066657276,9/2/2006,M,neoženjen,7/11/2020,056/410-128,057/340-169,roðak
+164,Vladun,Pribiæeviæ,"Grandiæi BB, Tjentište",2409686730028,9/24/1968,M,oženjen,7/27/2020,056/410-454,058/214-813,roðak
+165,Njegomir,Zdjelar,"Grbavci BB, Grbavci Gornji",1204988635177,4/12/1998,M,oženjen,7/16/2020,056/480-648,056/211-102,roðak
+166,Isailo,Kiprijanoviæ,"Grbavci BB, Grbavci Gornji",2707108188121,7/27/2010,M,neoženjen,7/16/2020,056/465-160,056/211-111,roðak
+167,Vukac,Miluroviæ,"Grbavci BB, Zvornik",2808992736328,8/28/1999,M,oženjen,7/20/2020,056/465-300,056/211-111,roðak
+168,Dalibor,Povrenoviæ,"Guèine 58, Trebinje",1909426596628,9/19/1942,M,udovac,7/2/2020,056/465-331,+387 59 261-352,roðak
+169,Vladko,Povrenoviæ,"Guèine BB, Trebinje",1404051052944,4/14/2005,M,neoženjen,7/13/2020,056/482-971,+387 59 261-350,majka
+170,Milivoje,Ganiloviæ,"Guèine BB, Trebinje",0606901308158,6/6/1990,M,oženjen,7/8/2020,056/411-496,+387 59 261-353,žena
+171,Cvjetoje,Rekaliæ,"Gušteri BB, Gušteri",2003767350490,3/20/1976,M,oženjen,7/25/2020,056/410-156,056/211-102,roðak
+172,Damljan,Cvetinoviæ,"Hasana Kikiæa BB, Foèa",1301051666140,1/13/2005,M,neoženjen,8/1/2020,056/410-852,058/214-817,roðak
+173,Grada,Rodiæ,"Hase BB, Bijeljina",1612656204106,12/16/1965,M,neoženjen,7/2/2020,056/410-643,055/416-016,roðak
+174,Dmitar,Duvnjak,Hase Novo Naselje,2006968729789,6/20/1996,M,neoženjen,7/26/2020,056/411-958,055/416-018,roðak
+175,Neven,Kuriliæ,"Hase-Brijesnica BB, Bijeljina",2805183678960,5/28/2018,M,neoženjen,7/4/2020,056/411-314,055/416-016,roðak
+176,Dragorad,Ošiæ,"Herceg Stefana Kosaèe 17, Trebinje",1410542260636,10/14/1954,M,neoženjen,7/7/2020,056/410-537,+387 59 261-351,roðak
+177,Marinko,Pavlièiæ,"Herceg Stefana Kosaèe 7, Trebinje",1810017363186,10/18/2001,M,neoženjen,7/8/2020,056/411-483,+387 59 261-350,roðak
+178,Stavro,Bujakoviæ,"Herceg Stjepana BB, Brod",0606656632681,6/6/1965,M,neoženjen,7/18/2020,056/465-385,058/214-811,roðak
+179,Živan,Stanièkov,"Herceg Stjepana BB, Brod",0806064170874,6/8/2006,M,neoženjen,7/18/2020,056/411-229,058/214-811,roðak
+180,Ivan,Paskulov,"Herceg Stjepana BB, Brod",2103054053476,3/21/2005,M,neoženjen,7/8/2020,056/410-091,058/214-817,roðak
+181,Stanivoje,Dimèiæ,"Herceg Stjepana BB, Brod",1409473450578,9/14/1947,M,neoženjen,7/15/2020,056/411-248,058/214-817,roðak
+182,Milorad,Šoliæ,"Hranèa BB, Bratunac",3007948627314,7/30/1994,M,neoženjen,7/1/2020,056/410-870,056/490-419,roðak
+183,Drago,Puriæ,"Hrupjela 2, Trebinje",2812951430980,12/28/1995,M,neoženjen,7/8/2020,056/411-327,+387 59 261-353,roðak
+184,Cvetan,Rudoviæ,"Hrupjela BB, Trebinje",2001492752930,1/20/1949,M,neoženjen,7/22/2020,056/411-435,+387 59 261-350,roðak
+185,Krsta,Ignjatiæ,"Hrupjela BB, Trebinje",2112023956125,12/21/2002,M,neoženjen,7/11/2020,056/410-295,+387 59 261-351,roðak
+186,Mileš,Dobrenoviæ,"Hrupjela BB, Trebinje",0301535877826,1/3/1953,M,neoženjen,7/27/2020,056/411-225,+387 59 261-353,roðak
+187,Jasen,Bekonja,"Igmanskog Marša BB, Foèa",2406077065312,6/24/2007,M,neoženjen,7/13/2020,056/410-284,058/214-817,roðak
+188,Vukoica,Radomiroviæ,"Iliæi BB, Zvornik",3005918007265,5/30/1991,M,neoženjen,7/9/2020,056/411-267,056/211-111,roðak
+189,Anatolije,Gajdaševiæ,"Ivaniæi BB, Donja Pilica",0702373860453,2/7/1937,M,udovac,7/10/2020,056/410-629,056/211-111,rodica
+190,Miladin,Radulaški,Ive Andriæa 37A,2808386667031,8/28/1938,M,neoženjen,7/30/2020,056/410-116,055/416-016,roðak
+191,Vraneš,Trampa,"Jablani BB, Ugljevik",0511792122997,11/5/1979,M,udovac,7/21/2020,059/227-157,055/416-019,roðak
+192,Andrej,Gvozden,"Jadarska Br/3, Zvornik",2707819361261,7/27/1981,M,neoženjen,7/27/2020,059/227-550,056/211-102,roðak
+193,Cvetoš,Spremo,"Jardan BB, Gušteri",1807027254336,7/18/2002,M,neoženjen,7/9/2020,059/484-443,056/211-102,roðak
+194,Sredoje,Mikuliæ,"Jardan BB, Jardan",2511009876493,11/25/2000,M,neoženjen,7/25/2020,059/223-644,056/211-111,roðak
+195,Njegovan,Velimir,"Jardan BB, Zvornik",1808888788072,8/18/1988,M,neoženjen,7/7/2020,059/224-236,056/211-102,roðak
+196,Gvozden,Zorkiæ,"Jasenica BB, Kozluk",3001184301253,1/30/2018,M,neoženjen,7/22/2020,059/220-599,056/211-111,roðak
+197,Vukša,Šantriæ,Jasenovackih Mucenika 5,1306454600136,6/13/1945,M,neoženjen,7/17/2020,059/261-326,055/416-019,roðak
+198,Dorotej,Putnikoviæ,"Jaziæi BB, Kalinovik",2705872831375,5/27/1987,M,neoženjen,7/21/2020,059/220-951,057/340-169,roðak
+199,Budisav,Dulikraviæ,"Jaziæi BB, Kalinovik",3108926405462,8/31/1992,M,neoženjen,7/28/2020,059/227-299,057/340-169,roðak
+200,Matej,Matavulj,"Jelašæa BB, Kalinovik",2303546646970,3/23/1954,M,neoženjen,7/13/2020,059/240-464,057/340-169,rodica
+201,Relja,Macedonac,"Jelašæa BB, Kalinovik",0604406516865,4/6/1940,M,neoženjen,7/13/2020,059/281-372,057/340-169,roðak
+202,Radoš,Žarkoviæ,"Jelašæa BB, Kalinovik",3006414527901,6/30/1941,M,neoženjen,7/7/2020,059/271-170,057/340-169,rodica
+203,Stevan,Blizanac,"Jelašæa BB, Kalinovik",0403406892865,3/4/1940,M,neoženjen,7/6/2020,059/240-521,057/340-169,roðak
+204,Vlajko,Lomas,"Jelovaèka BB, Bratunac",2101866575843,1/21/1986,M,neoženjen,7/20/2020,059/258-043,056/490-419,roðak
+205,Živorad,Varadinac,"JošAnica BB, JošAnica",0510705267451,10/5/1970,M,neoženjen,7/4/2020,059/257-223,058/214-812,roðak
+206,Branislav,Gaæe,"JošAnica BB, JošAnica",3008504095985,8/30/1950,M,neoženjen,7/8/2020,059/280-069,058/214-817,roðak
+207,Vukola,Pušica,Josifa Marinkoviæa 19,1404792427743,4/14/1979,M,neoženjen,7/12/2020,059/224-035,055/416-016,roðak
+208,Jasminko,Šuæur,"Jovana Raškoviæa 10, Trebinje",1106889719602,6/11/1988,M,neoženjen,7/25/2020,059/223-897,+387 59 261-350,roðak
+209,Gavrilo,Kereèki,"Jovana Raškoviæa 15, Trebinje",0505972073939,5/5/1997,M,neoženjen,7/28/2020,059/257-106,+387 59 261-351,roðak
+210,Avakum,Marièin,"Jovana Raškoviæa 64, Trebinje",2006372961557,6/20/1937,M,neoženjen,7/20/2020,059/281-548,+387 59 261-351,roðak
+211,Sreten,Karauliæ,"Kaèevac BB, Bijeljina",1010139001057,10/10/2013,M,neoženjen,7/22/2020,059/260-388,055/416-019,roðak
+212,Bogoboj,Jelisijeviæ,"Kacunska BB, Kalinovik",0208017826328,8/2/2001,M,neoženjen,7/10/2020,059/483-676,057/340-169,roðak
+213,Bojadin,Danojliæ,"Kacunska BB, Kalinovik",2911875189057,11/29/1987,M,neoženjen,7/1/2020,059/240-282,057/340-169,rodica
+214,Baja,Lovèeviæ,"Kajmovina BB, Foèa",2510976135138,10/25/1997,M,neoženjen,7/29/2020,059/285-500,058/214-812,roðak
+215,Perko,Lipovina,"Kajmovina BB, Foèa",2507562742602,7/25/1956,M,neoženjen,7/23/2020,059/258-183,058/214-817,roðak
+216,Milijas,Radivojev,"Kamenica Donja BB, Kamenica Donja",0212969663547,12/2/1996,M,neoženjen,7/5/2020,059/246-062,056/211-111,roðak
+217,Milomir,Batalo,"Karaðorðeva BB, Bijeljina",0805155690281,5/8/2015,M,neoženjen,7/9/2020,059/261-483,055/416-018,roðak
+218,Tvrdislav,Opsenica,"Karaðorðeva BB, Kalinovik",1210853264509,10/12/1985,M,neoženjen,7/1/2020,059/224-664,057/340-169,roðak
+219,Branivoj,Pralica,"Karaðorðeva BB, Kalinovik",1903537943143,3/19/1953,M,neoženjen,7/26/2020,059/260-958,057/340-169,roðak
+220,Dobrosav,Uvalin,"Karaðorðeva BB, Kalinovik",0512886207648,12/5/1988,M,neoženjen,7/27/2020,059/224-690,057/340-169,rodica
+221,Milša,Zorkiæ,"Karaðorðeva BB, Kalinovik",1912899171851,12/19/1989,M,neoženjen,7/1/2020,059/261-591,057/340-169,roðak
+222,Vidan,Medakoviæ,"Karaðorðeva BB, Kalinovik",2709673131516,9/27/1967,M,neoženjen,7/23/2020,059/223-143,057/340-169,roðak
+223,Beriša,Betegalo,"Karaðorðeva BB, Kalinovik",2407538696005,7/24/1953,M,neoženjen,7/26/2020,059/225-181,057/340-169,roðak
+224,Budisav,Ljajiæ,"Karaðorðeva BB, Kalinovik",1307859856990,7/13/1985,M,neoženjen,7/1/2020,059/480-333,057/340-169,roðak
+225,Jezda,Zamuroviæ,"Karaðorðeva BB, Kalinovik",0411195890173,11/4/2019,M,neoženjen,7/22/2020,059/281-555,057/340-169,roðak
+226,Jasminko,Prdavica,"Karaðorðeva BB, Kalinovik",2210681460878,10/22/1968,M,oženjen,7/1/2020,059/258-096,057/340-169,roðak
+227,Darijo,Balta,"Karaðorðeva BB, Kalinovik",3108665457260,8/31/1966,M,neoženjen,7/13/2020,059/485-359,057/340-169,roðak
+228,Nikodije,Jevriæ,"Karaðorðeva BB, Kalinovik",0903147514361,3/9/2014,M,neoženjen,7/30/2020,059/280-535,057/340-169,roðak
+229,Jeronim,Jovakariæ,"Karaðorðeva BB, Kalinovik",1702402332429,2/17/1940,M,neoženjen,7/12/2020,059/225-523,057/340-169,rodica
+230,Gavrilo,Obrenov,"Karaðorðeva BB, Kalinovik",0808187391834,8/8/2018,M,neoženjen,7/17/2020,059/224-207,057/340-169,roðak
+231,Berislav,Perièeviæ,"Karaðorðeva BB, Kalinovik",2103037219145,3/21/2003,M,neoženjen,7/23/2020,059/227-774,057/340-169,rodica
+232,Raðen,Hrebeljanoviæ,"Karaðorðeva BB, Kalinovik",2505918105917,5/25/1991,M,neoženjen,7/30/2020,059/260-854,057/340-169,rodica
+233,Krsto,Jeèmeniæ,"Karaðorðeva BB, Kalinovik",1601351501576,1/16/1935,M,neoženjen,7/2/2020,059/240-475,057/340-169,roðak
+234,Matijaš,Vrugiæ,"Karaðorðeva BB, Foèa",2809382611046,9/28/1938,M,neoženjen,7/16/2020,059/220-215,058/214-812,rodica
+235,Rafailo,Stranjakoviæ,"Karaðorðeva BB, Foèa",2202478011029,2/22/1947,M,neoženjen,7/20/2020,059/220-245,058/214-813,roðak
+236,Strahinja,Matunoviæ,"Karaðorðeva BB, Foèa",0511053627042,11/5/2005,M,neoženjen,7/3/2020,059/224-770,058/214-817,roðak
+237,Borisav,Bota,"Karaðorðeva BB, Foèa",1104556319482,4/11/1955,M,neoženjen,7/10/2020,059/223-564,058/214-817,roðak
+238,Sveta,Lopušina,"Karaðorðeva BB, Foèa",1708057214311,8/17/2005,M,neoženjen,7/26/2020,059/261-095,058/214-817,roðak
+239,Grubeta,Ljubaniæ,"Karakaj bb, Miliæi",0904205166476,4/9/2020,M,neoženjen,7/26/2020,059/223-410,056/211-100,rodica
+240,Dositej,Andriæ,"Karakaj Eknomija, Zvornik",2012373559055,12/20/1937,M,neoženjen,7/6/2020,059/260-189,056/211-111,rodica
+241,Veljko,Ljuština,"Karakaj Ulice, Zvornik",0407667758891,7/4/1966,M,neoženjen,7/28/2020,059/220-406,056/211-102,roðak
+242,Aleksije,Jovadžiæ,"Karakaj BB, Zvornik",0308462983574,8/3/1946,M,neoženjen,7/31/2020,059/220-065,056/211-111,roðak
+243,Arsenije,Fržoviæ,"Karakaj BB, Zvornik",2909186595283,9/29/2018,M,neoženjen,7/4/2020,059/280-509,056/211-111,roðak
+244,Zdravoljub,Motièiæ,"Karavlasi BB, Bijeljina",2904895202930,4/29/1989,M,neoženjen,7/16/2020,059/240-377,055/416-016,roðak
+245,Dragoslav,Milièiæ,"Kitovnice BB, Kitovnice",2007012163232,7/20/2001,M,neoženjen,7/13/2020,059/261-669,056/211-102,roðak
+246,Vlada,Radivojev,"Klešiæ BB, Donja Pilica",2307737646415,7/23/1973,M,neoženjen,7/15/2020,059/280-262,056/211-102,rodica
+247,Ivica,Preleviæ,"Klobuk BB, Lastva",0906868429015,6/9/1986,M,neoženjen,7/7/2020,059/258-064,+387 59 261-353,roðak
+248,Srdan,Šešum,Kneginje Milice 8/7,1601905106178,1/16/1990,M,neoženjen,7/20/2020,059/280-277,055/416-019,roðak
+249,Mališa,Gordeljeviæ,Knez Ive Od Semberije 47,2302009606592,2/23/2000,M,neoženjen,7/5/2020,059/261-119,055/416-016,roðak
+250,Aleksa,Pejušiæ,"Knez Ive Od Semberije BB, Bijeljina",1308034846360,8/13/2003,M,neoženjen,7/4/2020,059/280-080,055/416-019,roðak
+251,Jevto,Èibukovac,"Knez Mihailova- Gradina BB, Gorica",2506063458022,6/25/2006,M,neoženjen,7/24/2020,059/225-675,+387 59 261-350,roðak
+252,Radašin,Parojèiæ,"Kneza Ive BB, Bratunac",2312844664431,12/23/1984,M,oženjen,7/23/2020,059/227-261,056/490-417,roðak
+253,Ilinko,Crkvenjaš,"Kneza Ive BB, Bratunac",0402839370510,2/4/1983,M,neoženjen,8/1/2020,059/223-132,056/490-419,roðak
+254,Milijan,Vukoviæ,"Kneza Ive BB, Bratunac",0602945594529,2/6/1994,M,neoženjen,7/1/2020,059/261-874,056/490-419,roðak
+255,Veran,Vojkiæ,"Kneza Ive BB, Bratunac",1103048024368,3/11/2004,M,neoženjen,7/7/2020,059/280-615,056/490-417,roðak
+256,Branimir,Šapuriæ,"Kneza Ive BB, Bratunac",0603063920905,3/6/2006,M,neoženjen,7/29/2020,059/260-780,056/490-417,rodica
+257,Biljan,Graðin,Kneza Miloša 8B/28,1003529474776,3/10/1952,M,neoženjen,7/21/2020,059/481-067,055/416-019,rodica
+258,Joksim,Malavraziæ,"Kneza Miloša BB, Bijeljina",2305723528776,5/23/1972,M,neoženjen,7/23/2020,059/261-132,055/416-016,roðak
+259,Mirko,Kajgo,"Kninska 14, Trebinje",0801979997998,1/8/1997,M,neoženjen,7/24/2020,059/223-046,+387 59 261-350,roðak
+260,Steva,Oborina,"Kokanoviæi bb, Miliæi",1803083028788,3/18/2008,M,neoženjen,7/5/2020,059/223-893,056/211-100,roðak
+261,Uroš,Šmitran,"Kokanoviæi bb, Miliæi",0608007609752,8/6/2000,M,neoženjen,7/27/2020,059/271-250,056/211-101,roðak
+262,Simka,Gajtaniæ,"Kopilovi BB, Brod",1005837002293,5/10/1983,M,neoženjen,7/5/2020,059/280-163,058/214-813,roðak
+263,Nestor,Višnjevèanin,"Kopilovi BB, Brod",2912631271561,12/29/1963,M,neoženjen,7/3/2020,059/252-252,058/214-817,roðak
+264,Borivoj,Jojiæ,"Korenita Kandici, Ugljevik",2308656871051,8/23/1965,M,neoženjen,7/25/2020,059/225-689,055/416-019,roðak
+265,Golub,Cupaæ,"Kosovska BB, Bratunac",0903201465459,3/9/2020,M,neoženjen,7/6/2020,059/252-572,056/490-417,roðak
+266,Æirjak,Barvalac,"Kovaèiæi BB, Kalinovik",1101015782165,1/11/2001,M,neoženjen,7/31/2020,059/280-177,057/340-169,rodica
+267,Jovka,Pivnièki,"Kozja Luka BB, Miljevina",1309982699006,9/13/1998,M,neoženjen,7/27/2020,059/285-340,058/214-817,roðak
+268,Kosta,Vuleta,"Kragujevaèka 3, Foèa",2209194238776,9/22/2019,M,neoženjen,7/11/2020,059/225-038,058/214-817,roðak
+269,Ranðel,Ištokoviæ,"Krajiška BB, Foèa",0903554691876,3/9/1955,M,neoženjen,7/7/2020,059/227-377,058/214-813,roðak
+270,Trifun,Brajeviæ,"Krajiška BB, Foèa",2102555849381,2/21/1955,M,neoženjen,7/15/2020,059/261-321,058/214-817,rodica
+271,David,Gržiniæ,"Krajiška BB, Foèa",2712458725006,12/27/1945,M,neoženjen,7/3/2020,059/482-200,058/214-817,roðak
+272,Jakov,Vujmiloviæ,"Kralja Petra I 4, Foèa",1102884569885,2/11/1988,M,neoženjen,7/4/2020,059/281-155,058/214-813,roðak
+273,Janiæije,Vuletiæ,"Kralja Petra I BB, Foèa",0310959128965,10/3/1995,M,neoženjen,7/13/2020,059/220-784,058/214-817,rodica
+274,Negomir,Glogonjac,"Kralja Petra I BB, Foèa",1210673246282,10/12/1967,M,neoženjen,7/23/2020,059/261-930,058/214-817,roðak
+275,Vukalj,Živanac,"Kralja Petra I Karaðorðeviæa BB -2-12, Zvornik",0304032549758,4/3/2003,M,neoženjen,7/25/2020,059/259-027,056/211-102,roðak
+276,Dobrivoje,Vidojeviæ,"Kravièka BB, Bratunac",1604764186720,4/16/1976,M,neoženjen,7/5/2020,059/258-175,056/490-419,majka
+277,Dragoja,Jovkoviæ,"Križevacka BB, Bratunac",2107521161612,7/21/1952,M,neoženjen,7/24/2020,059/483-749,056/490-419,roðak
+278,Obreten,Liliæ,"Križeviæi BB, Gušteri",1901057139174,1/19/2005,M,neoženjen,7/29/2020,059/226-210,056/211-111,majka
+279,Budiša,Markuš,"Kunjerac BB, Bratunac",0202046901396,2/2/2004,M,neoženjen,7/15/2020,059/281-316,056/490-417,otac
+280,Cvetašin,Dokmanac,"Kuta BB, Brod",1808405502658,8/18/1940,M,neoženjen,7/11/2020,059/280-640,058/214-813,roðak
+281,Slaviša,Gloðoviæ,"Lastva BB, Lastva",1312456198904,12/13/1945,M,neoženjen,7/7/2020,059/246-012,+387 59 261-353,roðak
+282,Tomislav,Garaèa,"Lazarevo BB, Foèa",2307061691069,7/23/2006,M,neoženjen,7/27/2020,059/246-060,058/214-817,roðak
+283,Vukoje,Berdoviæ,"Leontija Ninkoviæa 10, Trebinje",1602168190447,2/16/2016,M,neoženjen,7/12/2020,059/483-901,+387 59 261-353,roðak
+284,Jagoš,Jevgenijeviæ,"Lipovica BB, Bijeljina",2509095819556,9/25/2009,M,neoženjen,7/19/2020,059/485-354,055/416-019,roðak
+285,Oliver,Dumanjiæ,"Livade BB, Foèa",0111154525962,11/1/2015,M,neoženjen,8/1/2020,059/227-759,058/214-817,roðak
+286,Radenko,Dragiæ,"Livade BB, Foèa",0908749277282,8/9/1974,M,neoženjen,7/27/2020,059/260-823,058/214-817,roðak
+287,Jagoš,Savatijeviæ,"Livade BB, Foèa",0910602621113,10/9/1960,M,neoženjen,7/3/2020,059/281-058,058/214-817,rodica
+288,Dobrivoje,Puševac,"Ljeljenca BB, Bijeljina",2511595811508,11/25/1959,M,neoženjen,7/21/2020,059/280-563,055/416-018,roðak
+289,Konstantin,Opriæ,"Ljeljenca BB, Bijeljina",0811755438239,11/8/1975,M,neoženjen,7/20/2020,059/260-662,055/416-016,roðak
+290,Radak,Kursuliæ,"Ljeljenca BB, Bijeljina",1711756352551,11/17/1975,M,neoženjen,7/6/2020,057/623-475,055/416-016,roðak
+291,Joksim,Trivaliæ,"Ljeskovac BB, Bijeljina",1901044890614,1/19/2004,M,neoženjen,7/10/2020,057/482-226,055/416-016,roðak
+292,Vojislav,Crniloviæ,"Ljeskovac BB, Bijeljina",2406863027123,6/24/1986,M,neoženjen,7/16/2020,057/483-095,055/416-016,roðak
+293,Mileta,Simèeviæ,"Loznica BB, Bratunac",1512048897771,12/15/2004,M,neoženjen,7/5/2020,057/623-189,056/490-419,roðak
+294,Novica,Brašnjakoviæ,"Luèka 5, kalinovik",2204729097758,4/22/1972,M,neoženjen,7/4/2020,057/482-325,057/340-169,roðak
+295,Cveja,Arkadijeviæ,"Luèka BB, Kalinovik",1301581095450,1/13/1958,M,neoženjen,7/30/2020,057/484-820,057/340-169,roðak
+296,Bogoslav,Grobenski,Luja Pastera 20A,1801631155790,1/18/1963,M,neoženjen,7/18/2020,057/623-052,055/416-016,roðak
+297,Ðura,Peranoviæ,"Luke Vukaloviæa BB, Trebinje",2411462166237,11/24/1946,M,neoženjen,7/12/2020,057/623-323,+387 59 261-350,rodica
+298,Gvozdenko,Blaževiæ,"Lukiæ Polje bb, Miliæi",0802638143567,2/8/1963,M,neoženjen,7/9/2020,057/482-396,056/211-100,rodica
+299,Daroslav,Dangiæ,"Lukiæ Polje bb, Miliæi",2411995693879,11/24/1999,M,neoženjen,7/17/2020,057/623-341,056/211-101,roðak
+300,Filiman,Kažanegra,"Magašiæi BB, Bratunac",1806838787768,6/18/1983,M,neoženjen,7/2/2020,057/482-407,056/490-417,roðak
+301,Prohor,Duloviæ,"Majevièka 15, Zvornik",1712025951607,12/17/2002,M,neoženjen,7/12/2020,057/623-018,056/211-111,roðak
+302,Julije,Florièeloviæ,"Majevièka BB, Bratunac",0710033030831,10/7/2003,M,neoženjen,7/5/2020,057/482-255,056/490-417,roðak
+303,Metodije,Barbul,"Mala Ulica BB, Trebinje",0712672486504,12/7/1967,M,neoženjen,7/17/2020,057/623-038,+387 59 261-351,rodica
+304,Njegoš,Miljeviæ,"Malešiæ BB, Kozluk",2802053900482,2/28/2005,M,neoženjen,7/22/2020,057/623-310,056/211-111,roðak
+305,Bogašin,Šola,"Malešiæ BB, Malešiæ",2610516618111,10/26/1951,M,neoženjen,7/17/2020,057/623-046,056/211-102,roðak
+306,Cvetoš,Kurepa,"Malešiæ BB, Malešiæ",1709996484962,9/17/1999,M,neoženjen,7/8/2020,057/623-386,056/211-111,roðak
+307,Rumenko,Kuèanèanin,"Malog Radojice 3, Gorica",0311993566827,11/3/1999,M,neoženjen,7/16/2020,057/623-115,+387 59 261-352,roðak
+308,Ratimir,Džikiæ,"Mariæi BB, Bijeljina",0211769520664,11/2/1976,M,neoženjen,7/23/2020,057/623-542,055/416-016,roðak
+309,Balša,Anðeliæ,"Mazoèe BB, Brod",0711939409909,11/7/1993,M,neoženjen,7/28/2020,057/480-626,058/214-817,roðak
+310,Mileta,Kožoviæ,"Meðaši BB, Bijeljina",2006603323042,6/20/1960,M,neoženjen,7/18/2020,057/480-459,055/416-018,roðak
+311,Dražeta,Zlovariæ,"Mehmed Paše Sokoloviæa BB, Foèa",2206684778416,6/22/1968,M,neoženjen,7/12/2020,057/623-079,058/214-817,rodica
+312,Evgenije,Poletan,"Meštrevac BB, Èelebiæi",0411679017459,11/4/1967,M,neoženjen,7/3/2020,057/480-101,058/214-817,roðak
+313,Vukola,Lozanac,"Meterize BB, Zvornik",2407873884149,7/24/1987,M,neoženjen,7/9/2020,057/482-395,056/211-111,rodica
+314,Strašimir,Slepèeviæ,Mihajla Pupina 24,2905825759193,5/29/1982,M,neoženjen,7/20/2020,057/485-676,055/416-016,roðak
+315,Jona,Grujanac,"Mihajla Pupina BB, Ugljevik",0408056061908,8/4/2005,M,neoženjen,7/4/2020,057/623-486,055/416-019,roðak
+316,Živorad,Dimkiæ,"Mihaljeviæi BB, Bratunac",2410651668058,10/24/1965,M,neoženjen,7/24/2020,057/623-232,056/490-417,roðak
+317,Negomir,Zelenkapiæ,"Mijakoviæi BB, JošAnica",2809944401037,9/28/1994,M,neoženjen,7/20/2020,057/623-105,058/214-811,roðak
+318,Radin,Vuleševiæ,"Mijakoviæi BB, JošAnica",2803142541414,3/28/2014,M,neoženjen,7/19/2020,057/623-160,058/214-812,roðak
+319,Drailo,Dobrašinoviæ,"Milana Hadživukoviæa BB, Foèa",2110742674479,10/21/1974,M,neoženjen,7/6/2020,057/623-176,058/214-817,roðak
+320,Drago,Miladiæ,"Milentija Peroviæa 96, Trebinje",0908362357567,8/9/1936,M,neoženjen,7/10/2020,057/485-367,+387 59 261-353,roðak
+321,Boriša,Brzanoviæ,"Miliæa Brdo bb, Miliæi",1804608973631,4/18/1960,M,neoženjen,7/15/2020,057/623-632,056/211-101,roðak
+322,Biserko,Šoklovaèki,"Miliæi bb, Miliæi",1811658768483,11/18/1965,M,neoženjen,7/2/2020,057/482-544,056/211-101,roðak
+323,Baja,Mišuriæ,"Miliæi bb, Miliæi",1509608149574,9/15/1960,M,neoženjen,7/20/2020,057/623-327,056/211-101,roðak
+324,Ignjatije,Ugarkoviæ,"Miljeviæi BB, Bijeljina",0207025051552,7/2/2002,M,neoženjen,7/31/2020,057/623-398,055/416-016,roðak
+325,Stepan,Erdeljanoviæ,"Miljevina BB, Miljevina",3008731824598,8/30/1973,M,neoženjen,7/18/2020,057/483-274,058/214-817,roðak
+326,Beran,Dragutinoviæ,"Miljevina BB, Miljevina",2009529852464,9/20/1952,M,neoženjen,7/5/2020,057/623-373,058/214-817,roðak
+327,Miroje,Malivuk,"Miljevina BB, Miljevina",0110939871622,10/1/1993,M,neoženjen,7/30/2020,057/623-279,058/214-817,roðak
+328,Aranðel,Jozoviæ,"Miljevina BB, Miljevina",0905123261975,5/9/2012,M,neoženjen,7/8/2020,057/623-305,058/214-817,rodica
+329,Strašina,Stanušiæ,"Miljevina BB, Miljevina",2004392891850,4/20/1939,M,neoženjen,7/8/2020,057/482-328,058/214-817,roðak
+330,Nikašin,Biljuriæ,"Miljevina BB, Miljevina",0509058840917,9/5/2005,M,neoženjen,7/4/2020,057/623-440,058/214-817,roðak
+331,Vidosav,Umjenoviæ,"Miloša Obiliæa 21, Trebinje",1504459958961,4/15/1945,M,neoženjen,7/19/2020,057/623-238,+387 59 261-351,roðak
+332,Bojèeta,Staoroviæ,"Miloša Obiliæa bb, Miliæi",1902155206323,2/19/2015,M,neoženjen,7/31/2020,057/483-099,056/211-101,roðak
+333,Mario,Pudariæ,"Miloša Obiliæa bb, Miliæi",2012033249958,12/20/2003,M,neoženjen,7/8/2020,057/482-547,056/211-101,roðak
+334,Milika,Ljubisavljeviæ,"Miloša Obiliæa BB, Foèa",2604953030609,4/26/1995,Z,udata,7/7/2020,057/482-425,058/214-811,roðak
+335,Dragina,Krestiæ,"Miloša Obiliæa BB, Foèa",2901681186599,1/29/1968,Z,udata,7/30/2020,057/485-617,058/214-811,rodica
+336,Mirjana,Turniæ,"Miloša Obiliæa BB, Foèa",2204675672322,4/22/1967,Z,udata,7/9/2020,057/623-354,058/214-813,roðak
+337,Flora,Gazibara,"Miloša Obiliæa BB, Foèa",0103478581236,3/1/1947,Z,udata,7/20/2020,057/623-140,058/214-817,roðak
+338,Simeuna,Pašagiæ,"Miloša Obiliæa BB, Foèa",0704845702592,4/7/1984,Z,udata,7/27/2020,057/623-333,058/214-817,roðak
+339,Ðurða,Zagajac,"Miloša Šarabe 17, Trebinje",0911597146025,11/9/1959,Z,udata,7/22/2020,057/623-352,+387 59 261-351,roðak
+340,Sara,Juzbaša,"Miloševo bb, Miliæi",1412076749251,12/14/2007,Z,neudata,7/1/2020,057/483-282,056/211-101,roðak
+341,Ankica,Brnad,"Miloševo bb, Miliæi",2511027681494,11/25/2002,Z,udata,7/24/2020,057/623-587,056/211-101,rodica
+342,Jana,Bogdaniæ,"Miloševo bb, Miliæi",2405632435798,5/24/1963,Z,udata,7/21/2020,057/623-032,056/211-101,tetka
+343,Draga,Klinac,"Mišiæi bb, Miliæi",2807935578787,7/28/1993,Z,udata,7/22/2020,057/623-284,056/211-100,roðak
+344,Dana,Palikuæa,"Mjehovina BB, Kalinovik",1807438198283,7/18/1943,Z,udovica,7/21/2020,057/482-245,057/340-169,roðak
+345,Tara,Ljuboja,"Mješaja BB, Brod",0709764027042,9/7/1976,Z,udata,7/25/2020,057/482-228,058/214-812,roðak
+346,Tijana,Pajtiæ,"Mješaja BB, Brod",2807969280653,7/28/1996,Z,udata,7/4/2020,057/623-093,058/214-813,roðak
+347,Agica,Stanèuloviæ,"Mješaja BB, Brod",2009056180356,9/20/2005,Z,neudata,7/28/2020,057/482-458,058/214-817,roðak
+348,Jovana,Martiæ,"Mješaja BB, Brod",2307948990975,7/23/1994,Z,udata,7/31/2020,057/623-470,058/214-817,roðak
+349,Jovanka,Uroševiæ,"Mješaja BB, Brod",2108483941970,8/21/1948,Z,udata,7/1/2020,057/623-472,058/214-817,tetka
+350,Borislava,Obluèar,"Modran BB, Bijeljina",2807155024182,7/28/2015,Z,neudata,7/16/2020,057/623-221,055/416-016,roðak
+351,Stevana,Mirošljeviæ,"Mojkovaèka BB, Foèa",0103751899401,3/1/1975,Z,udata,8/1/2020,057/482-259,058/214-811,roðak
+352,Neva,Radoniæ,"Mojkovaèka BB, Foèa",2007553466542,7/20/1955,Z,udata,7/21/2020,057/480-280,058/214-812,roðak
+353,Aida,Mesaroviæ,"Mokri Dolovi 7, Trebinje",1604758318116,4/16/1975,Z,udata,7/25/2020,057/623-180,+387 59 261-353,roðak
+354,Božidarka,Saravelja,"Mokri Dolovi BB, Trebinje",2211916585411,11/22/1991,Z,udata,7/25/2020,057/623-197,+387 59 261-353,roðak
+355,Danojla,Ognjanov,"Mosoroviæi BB, Kalinovik",1312788619681,12/13/1978,Z,udata,7/7/2020,057/623-073,057/340-169,rodica
+356,Miluša,Soro,"Mosoroviæi BB, Kalinovik",1802194173835,2/18/2019,Z,neudata,7/29/2020,057/623-158,057/340-169,roðak
+357,Afrodita,Basuroviæ,"Mosoroviæi BB, Kalinovik",0308047346122,8/3/2004,Z,udata,7/9/2020,057/623-469,057/340-169,roðak
+358,Ognjanka,Nestorov,"Mostaæi BB, Trebinje",0206492901737,6/2/1949,Z,udovica,7/15/2020,057/480-365,+387 59 261-351,rodica
+359,Gorana,Bunardžiæ,"Moštanice BB, Bratunac",0409811136687,9/4/1981,Z,udata,7/30/2020,057/483-862,056/490-419,roðak
+360,Smiljana,Mulaomeroviæ,"Moštanice BB, Bratunac",0609861937462,9/6/1986,Z,udata,7/27/2020,057/482-258,056/490-417,rodica
+361,Željana,Aguridiæ,"Mušiæi BB, Kalinovik",2206927824874,6/22/1992,Z,udata,7/20/2020,057/480-461,057/340-169,roðak
+362,Ljubica,Spremiæ,"Mušiæi BB, Kalinovik",2907015948207,7/29/2001,Z,udata,7/23/2020,057/482-448,057/340-169,rodica
+363,Karmen,Baèiloviæ,"Naselje Biraè Do-Br.1, Zvornik",1603831154827,3/16/1983,Z,udata,8/1/2020,057/623-222,056/211-102,roðak
+364,Smiljka,Veseliæ,"Necjeæe BB, Gorica",2601795399478,1/26/1979,Z,udata,7/1/2020,057/623-274,+387 59 261-350,rodica
+365,Nadica,Ðerisilo,"Nedaviæ BB, Kalinovik",1304881659033,4/13/1988,Z,udata,7/8/2020,057/623-262,057/340-169,roðak
+366,Veliborka,Koruniæ,"Nedaviæ BB, Kalinovik",1812412091012,12/18/1941,Z,udovica,7/28/2020,057/623-267,057/340-169,roðak
+367,Vojislava,Garaèa,"Nemanjina BB, Bratunac",2107398554152,7/21/1939,Z,udovica,7/19/2020,057/482-257,056/490-419,rodica
+368,Jelisaveta,Lazin,"Nemanjina BB, Foèa",0202756850929,2/2/1975,Z,udata,7/13/2020,057/623-218,058/214-817,roðak
+369,Živadinka,Radukanoviæ,"Nikolaja Velimiroviæa BB, Foèa",1401531648183,1/14/1953,Z,udata,7/31/2020,057/482-434,058/214-817,roðak
+370,Aneta,Ruvidiæ,"Nikole Bojoviæa BB, Brod",1809193037839,9/18/2019,Z,udata,7/5/2020,057/484-818,058/214-812,rodica
+371,Dejka,Kurteš,"Nikole Bojoviæa BB, Brod",1201383451620,1/12/1938,Z,udata,7/8/2020,057/623-151,058/214-812,roðak
+372,Eva,Ðokanoviæ,"Nikole Bojoviæa BB, Brod",2809452830741,9/28/1945,Z,udata,7/1/2020,057/482-439,058/214-817,rodica
+373,Severa,Velemir,"Nikole Bojoviæa BB, Brod",1605392256733,5/16/1939,Z,udata,7/27/2020,057/482-529,058/214-817,roðak
+374,Milada,Šijaèki,"Nikole Bojoviæa BB, Brod",1906491737894,6/19/1949,Z,udata,7/18/2020,057/480-359,058/214-817,roðak
+375,Anja,Trivièeviæ,"Nikole Bojoviæa BB, Brod",1910065742094,10/19/2006,Z,neudata,7/28/2020,057/482-393,058/214-817,rodica
+376,Dobrila,Igiæ,"Nikole Bojoviæa BB, Foèa",1410824073802,10/14/1982,Z,udata,7/12/2020,057/482-436,058/214-811,roðak
+377,Alekseja,Maluckov,"Nikole Pašiæa BB, Foèa",2506814329179,6/25/1981,Z,udata,7/4/2020,057/482-541,058/214-813,roðak
+378,Gorica,Hamoviæ,"Nikole Pašiæa BB, Foèa",0907413105010,7/9/1941,Z,udata,7/30/2020,057/482-410,058/214-817,roðak
+379,Ada,Civišiæ,"Nikole Pašiæa BB, Foèa",1712714748819,12/17/1971,Z,udata,7/28/2020,057/482-413,058/214-817,roðak
+380,Vukmira,Šešelj,"Nikole Pašiæa BB, Foèa",3003424860852,3/30/1942,Z,udata,7/17/2020,057/623-389,058/214-817,roðak
+381,Mirea,Šoleviæ,"Nikole Tesle 14/19, Bijeljina",2409177065110,9/24/2017,Z,neudata,8/1/2020,057/480-624,055/416-016,roðak
+382,Angelina,Šarac,Nikole Tesle 1434,0307589266207,7/3/1958,Z,udata,7/12/2020,057/482-454,055/416-016,roðak
+383,Jana,Gordijaniæ,"Nikole Tesle 16/34, Bijeljina",2508641990338,8/25/1964,Z,udata,7/10/2020,057/482-417,055/416-016,rodica
+384,Mara,Spiriæ,"Nikole Tesle 17, Bijeljina",1005814878678,5/10/1981,Z,udata,8/1/2020,057/623-157,055/416-016,roðak
+385,Lepa,Daskaloviæ,"Nikšiæki Put 35, Gorica",1103877279487,3/11/1987,Z,udata,7/15/2020,057/623-143,+387 59 261-352,roðak
+386,Vuksana,Lešjanin,"Njegoševa BB, Foèa",2808194906014,8/28/2019,Z,neudata,7/28/2020,057/623-560,058/214-817,roðak
+387,Anka,Borikiæ,"Njegoševa BB, Foèa",1603626807847,3/16/1962,Z,udata,7/3/2020,057/480-457,058/214-817,roðak
+388,Dorotea,Udiloviæ,"Nudo BB, Lastva",1504373704402,4/15/1937,Z,udata,7/19/2020,057/623-289,+387 59 261-351,rodica
+389,Mijana,Dimkiæ,Nušiæeva 13,0508787482015,8/5/1978,Z,udata,7/17/2020,058/211-552,055/416-018,rodica
+390,Trifuna,Ilibašiæ,"Nušiæeva Lamela Ulaz 13 Sprat 1 Stan 1, Bijeljina",0407106227585,7/4/2010,Z,neudata,7/14/2020,058/213-090,055/416-016,roðak
+391,Zoraida,Æosin,"Obala II BB, Bratunac",0609595945393,9/6/1959,Z,udata,7/16/2020,058/213-786,056/490-417,rodica
+392,Anðelka,Strelica,"Obala I BB, Bratunac",1908853132052,8/19/1985,Z,udata,7/2/2020,058/212-564,056/490-417,rodica
+393,Adalia,Sretenijeviæ,"Obala II BB, Bratunac",0412962789316,12/4/1996,Z,udata,8/1/2020,058/213-910,056/490-419,roðak
+394,Zdravka,Pilasoviæ,"Obalj BB, Kalinovik",1404973716669,4/14/1997,Z,udata,7/21/2020,058/213-955,057/340-169,roðak
+395,Tomka,Milkov,"Obalj BB, Kalinovik",0206536694610,6/2/1953,Z,udata,7/11/2020,058/230-254,057/340-169,roðak
+396,Jovana,Krnjinac,"Obalj BB, Kalinovik",1505766411286,5/15/1976,Z,udata,7/23/2020,058/212-133,057/340-169,majka
+397,Kata,Božuèanin,"Obalj BB, Kalinovik",1710369496520,10/17/1936,Z,udata,7/24/2020,058/210-177,057/340-169,roðak
+398,Antonia,Dulkanoviæ,"Obalj BB, Kalinovik",2112023535674,12/21/2002,Z,udata,7/9/2020,058/210-808,057/340-169,roðak
+399,Zlatka,Karleuša,"Obrnja BB, Kalinovik",0312463649291,12/3/1946,Z,udata,7/26/2020,058/210-027,057/340-169,rodica
+400,Silvija,Nediniæ,"Ogorelica BB, Bijeljina",0406493840367,6/4/1949,Z,udata,7/27/2020,058/214-090,055/416-018,rodica
+401,Larisa,Stašiæ,"Ogorelica BB, Bijeljina",2408167222015,8/24/2016,Z,neudata,7/11/2020,058/230-444,055/416-016,rodica
+402,Zavida,Stanaæev,"Ogorelica BB, Bijeljina",1106735093631,6/11/1973,Z,udata,7/11/2020,058/210-133,055/416-016,roðak
+403,Milisavka,Sokolovac,"Okolišta BB, Kalinovik",0202178538013,2/2/2017,Z,neudata,7/21/2020,058/230-326,057/340-169,rodica
+404,Davorka,Èeèur,"Omladinska BB, Kalinovik",2712355868401,12/27/1935,Z,udata,7/6/2020,058/238-119,057/340-169,rodica
+405,Vujadinka,Zejak,"Omladinska BB, Kalinovik",0806574393378,6/8/1957,Z,udata,7/14/2020,058/230-474,057/340-169,roðak
+406,Dejka,Radukiæ,"Omladinska BB, Kalinovik",0307582883012,7/3/1958,Z,udata,7/28/2020,058/210-236,057/340-169,rodica
+407,Tihana,Tokanoviæ,"Omladinska BB, Kalinovik",1711588815389,11/17/1958,Z,udata,7/20/2020,058/238-200,057/340-169,roðak
+408,Lara,Slavniæ,"Omladinska BB, Kalinovik",0309437007178,9/3/1943,Z,udata,8/1/2020,058/480-039,057/340-169,rodica
+409,Stanimirka,Gotovina,"Orahovac BB, Zvornik",0512571099234,12/5/1957,Z,udata,7/8/2020,058/214-625,056/211-111,roðak
+410,Tomana,Parežanin,"Orašje BB, Grab",2603925322267,3/26/1992,Z,udata,7/10/2020,058/230-407,+387 59 261-353,roðak
+411,Rosa,Coniæ,"Orašje BB, Trebinje",2609546149355,9/26/1954,Z,udata,7/22/2020,058/214-662,+387 59 261-353,roðak
+412,Severina,Šukletoviæ,"Paðine BB, Paðine",0607706820013,7/6/1970,Z,udata,7/27/2020,058/212-364,056/211-111,roðak
+413,Pavla,Repac,Paje Jovanoviæa 48,0105867622584,5/1/1986,Z,udata,7/15/2020,058/238-172,055/416-019,roðak
+414,Cvetana,Škuletiæ,"Paluèci BB, Zvornik",0809906023138,9/8/1990,Z,udata,7/6/2020,058/213-339,056/211-102,roðak
+415,Aida,Aradski,"Paluèci BB, Zvornik",1801816779568,1/18/1981,Z,udata,7/27/2020,058/481-017,056/211-111,roðak
+416,Jelisaveta,Germanac,"Patkovaèa (Cipirovine) BB, Bijeljina",0504559949524,4/5/1955,Z,udata,7/24/2020,058/213-833,055/416-016,rodica
+417,Zoraida,Ijaèiæ,"Patkovaèa BB, Bijeljina",1609566279990,9/16/1956,Z,udovica,7/27/2020,058/480-232,055/416-018,rodica
+418,Rastislava,Mršoviæ,"Patkovaèa BB, Bijeljina",1404773537524,4/14/1977,Z,neudata,7/22/2020,058/484-087,055/416-016,roðak
+419,Jelisaveta,Dièiæ,"Patkovina BB, Foèa",0503642706451,3/5/1964,Z,neudata,7/11/2020,058/213-772,058/214-817,roðak
+420,Vidna,Gazikaloviæ,"Paunci BB, Foèa",1007701564706,7/10/1970,Z,udata,7/29/2020,058/214-140,058/214-817,roðak
+421,Koviljka,Krstonošiæ,"Pavkoviæi bb, Miliæi",2911663840819,11/29/1966,Z,udata,7/22/2020,058/230-151,056/211-101,roðak
+422,Jana,Obreški,"Pavkoviæi bb, Miliæi",0608407024579,8/6/1940,Z,udata,7/4/2020,058/210-552,056/211-101,roðak
+423,Dejana,Risniæ,"Pavkoviæi bb, Miliæi",2410113362218,10/24/2011,Z,neudata,7/21/2020,058/480-672,056/211-101,roðak
+424,Klementina,Pantoviæ,"Pere Tunguza BB, Kalinovik",1006758585001,6/10/1975,Z,udata,7/2/2020,058/214-309,057/340-169,roðak
+425,Ksenija,Draviæ,"Pere Tunguza BB, Kalinovik",3105093700754,5/31/2009,Z,neudata,7/14/2020,058/210-387,057/340-169,rodica
+426,Živojina,Vukin,"Pere Tunguza BB, Kalinovik",0409711054463,9/4/1971,Z,udata,8/1/2020,058/480-429,057/340-169,roðak
+427,Izvorka,Vukšiæ,"Pere Tunguza BB, Kalinovik",2302119794268,2/23/2011,Z,neudata,7/4/2020,058/212-601,057/340-169,roðak
+428,Radna,Obrovaèki,"Pere Tunguza BB, Kalinovik",1908091824152,8/19/2009,Z,neudata,7/10/2020,058/212-605,057/340-169,roðak
+429,Hranislava,Kezunoviæ,"Pešuta Klariæa BB, Kalinovik",2205137191765,5/22/2013,Z,neudata,7/18/2020,058/221-440,057/340-169,otac
+430,Amelia,Ubner,"Pešuta Klariæa BB, Kalinovik",0502934836744,2/5/1993,Z,udata,7/25/2020,058/230-225,057/340-169,roðak
+431,Ristana,Dumitraškoviæ,"Pešuta Klariæa BB, Kalinovik",0204416099495,4/2/1941,Z,udata,7/10/2020,058/482-540,057/340-169,roðak
+432,Stevanka,Vunjak,"Pešuta Klariæa BB, Kalinovik",1106674081743,6/11/1967,Z,udata,7/8/2020,058/480-488,057/340-169,roðak
+433,Slavojka,Biloviæ,"Pešuta Klariæa BB, Kalinovik",2101176243351,1/21/2017,Z,neudata,7/26/2020,058/212-275,057/340-169,roðak
+434,Dobrosava,Moæeviæ,"Pešuta Klariæa BB, Kalinovik",1810523932186,10/18/1952,Z,udata,7/16/2020,058/211-043,057/340-169,rodica
+435,Ana,Èubrilo,"Pešuta Klariæa BB, Kalinovik",2702941039287,2/27/1994,Z,udata,7/20/2020,058/480-234,057/340-169,roðak
+436,Dora,Odaviæ,"Petkovci BB, Donja Pilica",1804033878747,4/18/2003,Z,neudata,7/18/2020,058/211-608,056/211-102,roðak
+437,Alta,Ristivojeviæ,"Petkovci BB, Petkovci",2903604638459,3/29/1960,Z,udata,7/2/2020,058/211-888,056/211-102,rodica
+438,Bojka,Zlatièanin,"Petra Bojoviæa BB, Foèa",1602408188474,2/16/1940,Z,udata,7/13/2020,058/230-065,058/214-811,roðak
+439,Jagoda,Gerziæ,"Petra Bojoviæa BB, Foèa",2804584326946,4/28/1958,Z,udata,7/2/2020,058/212-202,058/214-811,rodica
+440,Naca,Alimpiæ,"Petra Bojoviæa BB, Foèa",1007477638005,7/10/1947,Z,udata,7/27/2020,058/212-167,058/214-812,roðak
+441,Gorana,Zeèeviæ,"Petra Bojoviæa BB, Foèa",3105097923732,5/31/2009,Z,udata,7/10/2020,058/213-432,058/214-817,rodica
+442,Irena,Rakazoviæ,"Petra Bojoviæa BB, Foèa",1909786411114,9/19/1978,Z,udata,7/19/2020,058/221-510,058/214-817,roðak
+443,Martina,Drobiloviæ,"Petra Bojoviæa BB, Foèa",1611456753429,11/16/1945,Z,udata,7/29/2020,058/482-197,058/214-817,roðak
+444,Paula,Gostimiroviæ,"Petra Bojoviæa BB, Foèa",2308813774475,8/23/1981,Z,udata,7/11/2020,058/211-804,058/214-817,roðak
+445,Leonida,Vraèareviæ,"Petra Koèiæa BB, Foèa",1606123565570,6/16/2012,Z,neudata,7/22/2020,058/235-472,058/214-812,roðak
+446,Maša,Bereta,"Petra Koèiæa BB, Foèa",1408383524639,8/14/1938,Z,udata,7/11/2020,058/214-324,058/214-812,rodica
+447,Vukosava,Dragosavljeviæ,"Petra Koèiæa BB, Foèa",0411388495555,11/4/1938,Z,udata,7/11/2020,058/214-299,058/214-813,roðak
+448,Živadinka,Gornjakoviæ,"Petra Koèiæa BB, Foèa",2801792932034,1/28/1979,Z,udata,7/2/2020,058/235-382,058/214-813,roðak
+449,Lea,Dikliæ,"Petrov Polje BB, Trebinje",2101621008015,1/21/1962,Z,udata,7/16/2020,058/212-191,+387 59 261-351,roðak
+450,Persa,Georgijeviæ,"Petrovdanska 60, Bratunac",0510447503769,10/5/1944,Z,udovica,7/17/2020,058/212-421,056/490-417,roðak
+451,Ivanka,Cincar,"Petrovdanska BB, Bratunac",2409854727018,9/24/1985,Z,udata,7/24/2020,058/212-498,056/490-419,roðak
+452,Magdalina,Moljkoviæ,"Petrovdanska BB, Bratunac",3003445972201,3/30/1944,Z,udovica,7/13/2020,058/482-638,056/490-417,roðak
+453,Trnjina,Runjevac,"Pilica BB, Donja Pilica",0712016624768,12/7/2001,Z,udata,7/19/2020,058/213-792,056/211-102,rodica
+454,Božica,Poskurica,"Pobrðe BB, Bratunac",2709399773976,9/27/1939,Z,udata,7/24/2020,058/482-026,056/490-417,roðak
+455,Anita,Korolija,"Podèauš BB, Bratunac",1810123078528,10/18/2012,Z,neudata,7/19/2020,058/210-865,056/490-419,roðak
+456,Vera,Ružiæ,"Podgora bb, Miliæi",0907006598660,7/9/2000,Z,udata,7/31/2020,058/213-742,056/211-101,roðak
+457,Nadežda,Baranac,"Podgora bb, Miliæi",1811948787615,11/18/1994,Z,udata,8/1/2020,058/230-297,056/211-101,roðak
+458,Milkana,Krndija,"Podgradac BB, Bratunac",1710451887272,10/17/1945,Z,udata,7/26/2020,058/214-115,056/490-419,rodica
+459,Slobodanka,Vranjanin,"Podgradac BB, Bratunac",2504149482549,4/25/2014,Z,neudata,7/3/2020,058/230-118,056/490-417,roðak
+460,Ljiljana,Mileniæ,"Podgradac BB, Bratunac",1308154195551,8/13/2015,Z,neudata,7/12/2020,058/213-306,056/490-417,roðak
+461,Dora,Bjelèeviæ,"Podgradac BB, Bratunac",1703107424022,3/17/2010,Z,neudata,7/9/2020,058/214-297,056/490-417,roðak
+462,Alda,Trimèeviæ,"Podravanje bb, Miliæi",0104972853524,4/1/1997,Z,udata,7/28/2020,058/213-097,056/211-100,roðak
+463,Dragojla,Gustovarac,"Preobraženska BB, Trebinje",0511688442033,11/5/1968,Z,udata,7/15/2020,058/480-201,+387 59 261-351,roðak
+464,Zagorka,Roganoviæ,"Prevraæ BB, Foèa",2609604189798,9/26/1960,Z,udata,7/17/2020,058/230-191,058/214-817,roðak
+465,Elena,Æukteraš,"Pridvorci 15, Trebinje",2504169537004,4/25/2016,Z,neudata,7/4/2020,058/210-837,+387 59 261-353,rodica
+466,Radija,Vukonjanski,"Pridvorci 24, Trebinje",2903076708829,3/29/2007,Z,neudata,7/7/2020,058/213-962,+387 59 261-351,rodica
+467,Isidora,Laloševiæ,"Pridvorci BB, Trebinje",1702627814478,2/17/1962,Z,udata,7/6/2020,058/213-694,+387 59 261-351,roðak
+468,Leonida,Ðunoviæ,"Prljaèa BB, Gorica",0705714131979,5/7/1971,Z,udata,7/21/2020,058/214-543,+387 59 261-352,rodica
+469,Ognjanka,Tajeviæ,"Radnièka 5-A, Zvornik",0302136354988,2/3/2013,Z,neudata,7/26/2020,058/480-196,056/211-102,roðak
+470,Persa,Tarlaæ,"Rajiæi bb, Miliæi",2910209633883,10/29/2020,Z,neudata,7/19/2020,058/212-105,056/211-101,roðak
+471,Brankica,Berat,"Rajici bb, Miliæi",2707043591799,7/27/2004,Z,udata,7/30/2020,058/213-397,056/211-101,rodica
+472,Varvara,Bratiæeviæ,"Rajiæi bb, Miliæi",2004697031354,4/20/1969,Z,udata,7/6/2020,058/233-138,056/211-100,roðak
+473,Adra,Telenta,"Rajiæi bb, Miliæi",2404914886175,4/24/1991,Z,udata,7/24/2020,058/212-362,056/211-101,roðak
+474,Ðurða,Vujanin,"Rajiæi bb, Miliæi",1003647485028,3/10/1964,Z,udata,7/30/2020,058/210-822,056/211-101,roðak
+475,Mia,Cicoviæ,"Rajiæi bb, Miliæi",0712863711157,12/7/1986,Z,udata,7/10/2020,058/482-624,056/211-101,roðak
+476,Ema,Jegarèev,"Rajiæi bb, Miliæi",0806439538949,6/8/1943,Z,udata,7/12/2020,058/238-184,056/211-101,roðak
+477,Mirela,Galjak,"Rakovaèki put BB, Bratunac",0203183184839,3/2/2018,Z,neudata,7/1/2020,058/214-222,056/490-419,roðak
+478,Stanimirka,Janaækoviæ,"Rakovaèki Put BB, Bratunac",0311164346152,11/3/2016,Z,neudata,7/29/2020,058/235-311,056/490-417,roðak
+479,Stajka,Puriša,"Rastoci 7, Trebinje",2401673204175,1/24/1967,Z,udata,7/31/2020,058/214-201,+387 59 261-350,roðak
+480,Dana,Radanèeviæ,"Repovac BB, Bratunac",2504108148977,4/25/2010,Z,neudata,7/6/2020,058/484-495,056/490-419,roðak
+481,Ðurðinka,Jerkov,"Repovac BB, Bratunac",1208154543434,8/12/2015,Z,neudata,7/29/2020,058/230-167,056/490-419,roðak
+482,Dragojla,Vojièiæ,"Repovac BB, Bratunac",3001458873751,1/30/1945,Z,udata,8/1/2020,058/488-045,056/490-417,roðak
+483,Milka,Šinikoviæ,"Rijeèka BB, Bratunac",2108722568423,8/21/1972,Z,udata,7/1/2020,058/230-171,056/490-417,roðak
+484,Dragica,Glavendekiæ,"Ruda Glavica BB, Zavajt",2911479040979,11/29/1947,Z,udata,7/12/2020,058/213-356,058/214-817,roðak
+485,Jelenka,Zotoviæ,Ruðera Boškovica 3,3007762617107,7/30/1976,Z,udata,7/20/2020,058/230-241,055/416-019,rodica
+486,Nataša,Antonoviæ,"S.Peroviæa BB, Gorica",2610915125765,10/26/1991,Z,udata,7/29/2020,058/212-021,+387 59 261-351,rodica
+487,Zagorka,Radovanoviæ,"Šantiæeva BB, Foèa",1512131462735,12/15/2013,Z,neudata,7/31/2020,058/212-795,058/214-811,roðak
+488,Zlata,Gucunski,"Šantiæeva BB, Foèa",0208831003277,8/2/1983,Z,udata,7/9/2020,058/214-081,058/214-817,roðak
+489,Stoislava,Civriæ,"Saš BB, Foèa",0402199945693,2/4/2019,Z,neudata,7/10/2020,058/210-042,058/214-817,roðak
+490,Smiljka,Kuzeljeviæ,"Sedomine BB, Kalinovik",2503937976116,3/25/1993,Z,udata,7/9/2020,058/214-619,057/340-169,rodica
+491,Stana,Golemoviæ,"Selišta BB, Bratunac",2512944083326,12/25/1994,Z,udata,7/15/2020,058/214-748,056/490-419,roðak
+492,Bosa,Komlenov,"Serafima Peroviæa BB, Trebinje",0401116361025,1/4/2011,Z,neudata,7/18/2020,058/230-253,+387 59 261-352,roðak
+493,Košuta,Karišik,"Šetiæi BB, Šetiæi",3008014339758,8/30/2001,Z,udata,7/22/2020,058/482-564,056/211-102,roðak
+494,Kaæa,Grekuloviæ,"Šetiæi BB, Zvornik",0107895117918,7/1/1989,Z,udata,7/30/2020,058/210-240,056/211-102,roðak
+495,Maja,Vunjak,"Sime Periæa BB, Zvornik",2012453669568,12/20/1945,Z,udata,7/4/2020,058/213-143,056/211-102,roðak
+496,Zorica,Bakmaz,"Šivolji BB, Kalinovik",2203664554116,3/22/1966,Z,udata,7/6/2020,058/214-758,057/340-169,roðak
+497,Ljubislava,Batroviæ,"Šivolji BB, Kalinovik",0112946245446,12/1/1994,Z,udata,7/26/2020,058/211-509,057/340-169,roðak
+498,Jordanka,Runjanin,"Šivolji BB, Kalinovik",0404071654534,4/4/2007,Z,neudata,7/11/2020,058/210-828,057/340-169,roðak
+499,Nikolija,Šolak,"Šivolji BB, Kalinovik",1204585315484,4/12/1958,Z,udata,7/15/2020,058/482-128,057/340-169,roðak
+500,Izvirinka,Balmazoviæ,"Slapašnièka BB, Bratunac",3005025865303,5/30/2002,Z,neudata,7/13/2020,058/238-116,056/490-419,roðak
+501,Koviljka,Burzan,"Slobodana Jovanoviæa 15, Bijeljina",0704591207607,4/7/1959,Z,udata,7/12/2020,058/212-673,055/416-016,roðak
+502,Mlaðana,Dobrosavljev,"Sokolska BB, Kalinovik",2107607524215,7/21/1960,Z,udata,7/19/2020,058/212-719,057/340-169,roðak
+503,Vlatka,Ivantiæ,"Sokolska BB, Foèa",1006509599942,6/10/1950,Z,neudata,7/21/2020,058/211-596,058/214-811,roðak
+504,Trnjina,Šarenac,"Sokolska BB, Foèa",2202577727062,2/22/1957,Z,udovica,7/14/2020,058/214-260,058/214-812,rodica
+505,Radmila,Paravac,"Sokolska BB, Foèa",2706483995092,6/27/1948,Z,udovica,7/12/2020,058/213-492,058/214-812,rodica
+506,Ivana,Šeguljev,"Solunska 16, Trebinje",1506727010219,6/15/1972,Z,neudata,7/12/2020,058/212-840,+387 59 261-351,roðak
+507,Simona,Silaški,"Solunska BB, Trebinje",1504839776295,4/15/1983,Z,neudata,7/4/2020,058/211-114,+387 59 261-352,rodica
+508,Ruzmarinka,Buljin,"Solunska BB, Trebinje",1910607400464,10/19/1960,Z,neudata,7/4/2020,058/230-101,+387 59 261-352,roðak
+509,Gospava,Turunèiæ,"Solunskih Junaka 33, Milici",3108813602486,8/31/1981,Z,neudata,7/22/2020,058/235-251,056/211-101,roðak
+510,Milijana,Guroviæ,"Srebrenièkog odreda BB, Bratunac",1305933746927,5/13/1993,Z,neudata,7/6/2020,058/213-953,056/490-417,roðak
+511,Jelena,Bogetiæ,"Srpska 25, Trebinje",0203411544662,3/2/1941,Z,neudata,7/2/2020,058/211-789,+387 59 261-353,roðak
+512,Mera,Draviæ,"Srpske Sloge BB, Ugljevik",0809441078833,9/8/1944,Z,neudata,7/12/2020,058/230-158,055/416-019,rodica
+513,Stojana,Podgorac,"Srpskih Dobrovoljaca BB, Kalinovik",0112734586409,12/1/1973,Z,neudata,7/29/2020,058/238-193,057/340-169,rodica
+514,Zvonka,Ilijiæ,"Starine Novaka 4 , Ugljevik",1007106049754,7/10/2010,Z,neudata,7/18/2020,058/211-024,055/416-019,rodica
+515,Gordana,Palavestra,"Staro Strelište BB, Trebinje",0409008292213,9/4/2000,Z,neudata,7/11/2020,058/480-089,+387 59 261-350,roðak
+516,Katica,Èaprnjiæ,Stefana Deèanskog 161A,1507104136194,7/15/2010,Z,neudata,7/15/2020,058/484-496,055/416-018,roðak
+517,Javorka,Stojkoviæ,"Stefana Deèanskog 75, Bijeljina",1302674181428,2/13/1967,Z,udovica,7/7/2020,058/212-569,055/416-016,roðak
+518,Teodosija,Ribariæ,"Stepe StepaNovica BB, Foèa",2003649494916,3/20/1964,Z,udovica,7/22/2020,058/212-776,058/214-811,majka
+519,Kosana,Todorinoviæ,"Stepe StepaNovica BB, Foèa",0408082850025,8/4/2008,Z,neudata,7/23/2020,058/238-134,058/214-811,roðak
+520,Gorica,Vojnoviæ,"Stepe StepaNovica BB, Foèa",0606113985188,6/6/2011,Z,neudata,7/14/2020,058/213-126,058/214-813,majka
+521,Iva,Markiæeviæ,"Stepe StepaNovica BB, Foèa",1402744955228,2/14/1974,Z,neudata,7/26/2020,058/210-307,058/214-817,roðak
+522,Iva,Èièak,"Stepe StepaNovica BB, Foèa",0110857282593,10/1/1985,Z,neudata,7/20/2020,058/212-228,058/214-817,roðak
+523,Ognjanka,Koševiæ,"Štoviæ BB, Brod",0108023892895,8/1/2002,Z,neudata,7/30/2020,058/210-501,058/214-813,roðak
+524,Vida,Skrobiæ,"Štoviæ BB, Brod",3007594838514,7/30/1959,Z,neudata,7/21/2020,058/221-271,058/214-817,roðak
+525,Vukosava,Ivanjac,"Studentska BB, Foèa",0103641291117,3/1/1964,Z,neudata,7/26/2020,058/212-810,058/214-817,roðak
+526,Kosovka,Tapavica,"Studentska BB, Foèa",1410991973511,10/14/1999,Z,neudata,7/30/2020,058/213-080,058/214-817,roðak
+527,Drenka,Gajloviæ,"Studentska BB, Foèa",1803604525432,3/18/1960,Z,neudata,7/2/2020,058/230-168,058/214-817,roðak
+528,Lena,Komadiniæ,"Studentska BB, Foèa",2706128479978,6/27/2012,Z,neudata,7/14/2020,058/210-392,058/214-817,roðak
+529,Klementina,Keèan,"Suho Polje BB, Bijeljina",0608896790304,8/6/1989,Z,neudata,7/27/2020,058/484-410,055/416-016,roðak
+530,Ðenadija,Lunguloviæ,"Šumadijska BB, Kalinovik",1907659984536,7/19/1965,Z,neudata,7/10/2020,058/214-731,057/340-169,rodica
+531,Stevanka,Negovanoviæ,"Sunèani Breg 28, Trebinje",2111608106676,11/21/1960,Z,neudata,7/10/2020,058/211-699,+387 59 261-352,roðak
+532,Neda,Variæak,"Supaè bb, Miliæi",2310087601874,10/23/2008,Z,neudata,7/19/2020,058/212-181,056/211-100,roðak
+533,Bosa,Ludoški,"Sveti Stefan BB, Zvornik",2304649824364,4/23/1964,Z,neudata,7/20/2020,058/214-549,056/211-111,rodica
+534,Julka,Arbinja,"Svetog Nikole BB, Foèa",1510056676511,10/15/2005,Z,neudata,7/1/2020,058/230-015,058/214-813,roðak
+535,Severa,Biljanoviæ,"Svetog Nikole BB, Foèa",0803906587570,3/8/1990,Z,neudata,7/4/2020,058/213-354,058/214-817,roðak
+536,Marlena,Jeftiæ,"Svetog Nikole BB, Foèa",0905073456909,5/9/2007,Z,neudata,7/27/2020,058/211-879,058/214-817,roðak
+537,Milica,Krstoniæ,"Svetog Save BB, Bratunac",0210006732876,10/2/2000,Z,neudata,7/13/2020,058/480-487,056/490-419,roðak
+538,Ranðija,Èelar,"Svetog Save BB, Bratunac",3012895416288,12/30/1989,Z,neudata,7/26/2020,058/230-102,056/490-417,roðak
+539,Milesa,Pirkoviæ,"Svetog Save Z-13-Ii-Ii/16, Zvornik",0712941034463,12/7/1994,Z,neudata,7/31/2020,058/211-179,056/211-102,roðak
+540,Kristijana,Kreèkoviæ,"Svetog Save Z14-4/5/78, Zvornik",1908472759663,8/19/1947,Z,neudata,7/1/2020,058/214-074,056/211-102,roðak
+541,Kalina,Odžiæ,"Svetog Save BB, Bratunac",2812194750477,12/28/2019,Z,neudata,8/1/2020,058/480-477,056/490-419,rodica
+542,Bosa,Tucoviæ,"Svetog Save BB, Bratunac",2906563464715,6/29/1956,Z,neudata,7/24/2020,058/214-832,056/490-419,roðak
+543,Bojana,Peroševiæ,"Svetog Save BB, Bratunac",0708629435446,8/7/1962,Z,neudata,7/15/2020,058/480-835,056/490-417,roðak
+544,Maja,Dešiæ,"Svetog Save BB, Bratunac",2503833838032,3/25/1983,Z,neudata,7/8/2020,058/235-570,056/490-417,roðak
+545,Dara,Lovre,"Svetog Save BB, Bratunac",0212754446971,12/2/1975,Z,neudata,7/24/2020,058/236-542,056/490-417,roðak
+546,Goranka,Borakoviæ,"Svetog Save BB, Bratunac",1203909511184,3/12/1990,Z,neudata,7/13/2020,058/214-467,056/490-417,roðak
+547,Karanfila,Radièkoviæ,"Svetog Save BB, Bratunac",1705102584659,5/17/2010,Z,neudata,7/11/2020,055/554-357,056/490-417,roðak
+548,Dafina,Stokin,"Svetog Save BB, Bratunac",0810011088446,10/8/2001,Z,neudata,7/17/2020,055/373-224,056/490-417,roðak
+549,Roksanda,Dujanoviæ,"Svetosavska 331, Trebinje",2912904540343,12/29/1990,Z,neudata,7/15/2020,055/350-455,+387 59 261-350,rodica
+550,Ranðija,Grebenaroviæ,"Svetosavska BB, Foèa",2407903645239,7/24/1990,Z,neudata,7/13/2020,055/389-715,058/214-813,roðak
+551,Todora,Vitkoviæ,"Svetosavska BB, Foèa",1904763370177,4/19/1976,Z,neudata,7/10/2020,055/240-563,058/214-817,roðak
+552,Tijana,Vaskoviæ,"Svetosavska BB, Foèa",2904755527460,4/29/1975,Z,neudata,7/28/2020,055/258-215,058/214-817,roðak
+553,Nina,Burmazoviæ,"Svetosavska BB, Foèa",2001988676857,1/20/1998,Z,neudata,7/18/2020,055/330-437,058/214-817,roðak
+554,Vojislava,Topiæ,"Svetosavska BB, Foèa",2507957842826,7/25/1995,Z,neudata,7/28/2020,055/554-261,058/214-817,roðak
+555,Živojina,Novkoviæ,"Tavna BB, Donja Pilica",0507409995994,7/5/1940,Z,neudata,7/27/2020,055/552-160,056/211-102,roðak
+556,Rajna,Stupljanin,"Tavna BB, Donja Pilica",2802002929861,2/28/2000,Z,neudata,7/26/2020,055/379-583,056/211-111,roðak
+557,Stajka,Æakiæ,"Teodora Drajzera BB, Foèa",1506411424135,6/15/1941,Z,neudata,7/23/2020,055/553-238,058/214-817,majka
+558,Adra,Dolboèanoviæ,"Tini 116/7, Trebinje",2702444299689,2/27/1944,Z,neudata,7/25/2020,055/202-317,+387 59 261-353,rodica
+559,Jeka,Strahinjiæ,"Tini 91, Trebinje",0803464755015,3/8/1946,Z,neudata,7/3/2020,055/220-690,+387 59 261-353,roðak
+560,Aina,Krsmiæ,"Tini S 101, Trebinje",1512201584128,12/15/2020,Z,neudata,7/19/2020,055/301-549,+387 59 261-351,roðak
+561,Stevanija,Gradinac,"Tini BB, Trebinje",2509476807659,9/25/1947,Z,neudata,7/24/2020,055/240-437,+387 59 261-350,roðak
+562,Obrenija,Žugiæ,"Tjentište BB, Tjentište",0710368148105,10/7/1936,Z,neudata,7/22/2020,055/244-452,058/214-817,otac
+563,Selena,Ljajiæ,"Tjentište BB, Tjentište",1905979324142,5/19/1997,Z,neudata,7/22/2020,055/383-149,058/214-817,roðak
+564,Sonja,Cvikiæ,"Trg Kralja Petra I Karaðorðeviæa BB, Zvornik",2609484566040,9/26/1948,Z,neudata,7/23/2020,055/247-571,056/211-102,roðak
+565,Vuka,Šestoviæ,"Trg Miloša ObIliæa BB, Bratunac",0405442712416,5/4/1944,Z,neudata,7/13/2020,055/255-111,056/490-417,otac
+566,Bojanka,Zjaèiæ,"Trg Travunije 111, Trebinje",1403069729662,3/14/2006,Z,neudata,7/26/2020,055/201-824,+387 59 261-351,roðak
+567,Sojka,Dugonja,"Trnjaci Centar BB, Bijeljina",0104506169546,4/1/1950,Z,neudata,7/19/2020,055/203-733,055/416-019,roðak
+568,Kalina,Zeljak,"Trnova Donja BB, Bijeljina",2508425745893,8/25/1942,Z,neudata,7/30/2020,055/350-882,055/416-018,rodica
+569,Miomira,Špiroviæ,"Trnova Gornja BB, Bijeljina",1904546885498,4/19/1954,Z,neudata,7/28/2020,055/350-435,055/416-016,roðak
+570,Branka,Škuletiæ,"Trnovaèe BB, Brod",2812154958307,12/28/2015,Z,neudata,7/3/2020,055/204-903,058/214-817,roðak
+571,Jagodinka,Radoja,"Trnovica BB, Kozluk",2508004514111,8/25/2000,Z,neudata,7/15/2020,055/204-289,056/211-102,roðak
+572,Smiljka,Pandžiæ,"Trnovica BB, Trnovica",0307576324605,7/3/1957,Z,neudata,7/17/2020,055/240-102,056/211-111,roðak
+573,Momira,Juškiæ,"Tršiæ BB, Tršiæ",0506058649373,6/5/2005,Z,neudata,7/20/2020,055/554-030,056/211-102,roðak
+574,Vojna,Nišiæ,"Tršiæ BB, Tršiæ",2002692569903,2/20/1969,Z,neudata,7/26/2020,055/552-072,056/211-111,roðak
+575,Nasta,Škalonja,"Tutnjevac BB, Ugljevik",2108604856096,8/21/1960,Z,neudata,7/27/2020,055/301-027,055/416-019,roðak
+576,Ðurðinka,Škaro,"Tutnjevac-Èitluk BB, Ugljevik",2503396964706,3/25/1939,Z,neudata,7/7/2020,055/389-121,055/416-019,roðak
+577,Dara,Zagorac,"Tutnjevac-Èitluk BB, Ugljevik",1309817149275,9/13/1981,Z,neudata,7/17/2020,055/371-251,055/416-019,roðak
+578,Draga,Radišiæ,"Tutnjevac-Èitluk BB, Ugljevik",0804079242257,4/8/2007,Z,neudata,7/4/2020,055/207-771,055/416-019,rodoca
+579,Zlatka,Nojkiæ,"Tutnjevac-Mitroviæi BB, Ugljevik",0502589241007,2/5/1958,Z,neudata,7/17/2020,055/330-127,055/416-019,roðak
+580,Doris,Glušèeviæ,"Tutnjevac-Šešlici BB, Ugljevik",2404096344149,4/24/2009,Z,neudata,7/3/2020,055/551-271,055/416-019,roðak
+581,Dana,Dragonjiæ,"Tvrdoš BB, Trebinje",3001861412146,1/30/1986,Z,neudata,7/22/2020,055/202-826,+387 59 261-353,majka
+582,Milisava,Kliska,"Ugljevièka Obrijež BB, Ugljevik",2009517771346,9/20/1951,Z,neudata,7/24/2020,055/332-128,055/416-019,roðak
+583,Julka,Koæalo,"Ugljevièka Obrijež BB, Ugljevik",0707802361372,7/7/1980,Z,neudata,7/23/2020,055/552-043,055/416-019,roðak
+584,Tomka,Mojsiæ,"Ugljevièka Obrijež BB, Ugljevik",2112157217142,12/21/2015,Z,neudata,7/3/2020,055/204-976,055/416-019,rodica
+585,Žanka,Petrašinoviæ,"Ugljevièka Obrijež BB, Ugljevik",0410117424835,10/4/2011,Z,neudata,7/10/2020,055/394-390,055/416-019,rodica
+586,Maja,Kupusinac,"Ugljevièka Obrijež BB, Ugljevik",0811799450883,11/8/1979,Z,neudata,7/21/2020,055/301-023,055/416-019,roðak
+587,Miranda,Bastaæ,"Ugljevik BB, Ugljevik",0508115148185,8/5/2011,Z,neudata,7/22/2020,055/255-283,055/416-019,roðak
+588,Adonia,Vukašinoviæ,"Ul. Republike Srpske 449, Trebinje",1911905066339,11/19/1990,Z,neudata,7/17/2020,055/351-634,+387 59 261-353,roðak
+589,Elena,Bolanoviæ,"Ulog BB, Kalinovik",0701604579365,1/7/1960,Z,neudata,7/24/2020,055/373-028,057/340-169,roðak
+590,Mida,Kojièiæ,"Ulog BB, Kalinovik",0403524009586,3/4/1952,Z,neudata,7/23/2020,055/209-497,057/340-169,otac
+591,Dobrina,Dankoviæ,"Ulog BB, Kalinovik",1902641071819,2/19/1964,Z,neudata,7/3/2020,055/244-513,057/340-169,roðak
+592,Vlastimirka,Grebljanoviæ,"Ulog BB, Kalinovik",0611374872603,11/6/1937,Z,neudata,7/13/2020,055/321-186,057/340-169,roðak
+593,Marina,Vajkanoviæ,"Uroša Prediæa 40, Bijeljina",1306424701285,6/13/1942,Z,neudata,7/24/2020,055/207-649,055/416-016,roðak
+594,Anka,Markoviæ,"Ustanièka BB, Trebinje",1502351829866,2/15/1935,Z,neudata,7/28/2020,055/389-225,+387 59 261-351,roðak
+595,Flora,Sadžakov,"Užièka BB, Foèa",0701088381259,1/7/2008,Z,neudata,7/20/2020,055/555-124,058/214-817,roðak
+596,Stojana,Belopoljac,"Varina Gruda BB, Dživar",0506496474626,6/5/1949,Z,neudata,7/2/2020,055/213-254,+387 59 261-350,roðak
+597,Miluka,Cupaæ,"Varina Gruda BB, Dživar",2112175220293,12/21/2017,Z,neudata,7/24/2020,055/371-075,+387 59 261-351,roðak
+598,Nasta,Vrakela,"Vase Pelagiæa 21, Bijeljina",0412086015165,12/4/2008,Z,neudata,7/7/2020,055/332-105,055/416-016,roðak
+599,Antonia,Kokanov,"Vase Pelagiæa 8, Ugljevik",1110395049193,10/11/1939,Z,neudata,7/22/2020,055/546-321,055/416-019,roðak
+600,Brankica,Davidovac,Vasilija Ostroškog 44B,1802088577794,2/18/2008,Z,neudata,7/22/2020,055/202-310,055/416-018,rodica
+601,Zvezdana,Nikoliæ,"Velika Obarska BB, Bijeljina",0609975061545,9/6/1997,Z,neudata,7/27/2020,055/392-377,055/416-016,roðak
+602,Gordana,Batiniæ,"Velino Selo BB, Bijeljina",2003967733603,3/20/1996,Z,neudata,7/9/2020,055/350-984,055/416-016,roðak
+603,Žarka,Tripkoviæ,"Vezac BB, Kalinovik",0605802999231,5/6/1980,Z,neudata,7/14/2020,055/394-228,057/340-169,roðak
+604,Despina,Golub,"Vezac BB, Kalinovik",0308505397230,8/3/1950,Z,neudata,7/22/2020,055/250-743,057/340-169,roðak
+605,Dragina,Bukilica,"VidiKovaè BB, Foèa",1410541197934,10/14/1954,Z,neudata,7/15/2020,055/379-042,058/214-817,roðak
+606,Ðurðija,Eror,"Vidovdanska 10, Trebinje",1509047115142,9/15/2004,Z,neudata,7/9/2020,055/258-174,+387 59 261-353,roðak
+607,Èedomirka,Trifunac,"Vihoviæi BB, Kalinovik",3103091936998,3/31/2009,Z,neudata,7/8/2020,055/383-688,057/340-169,roðak
+608,Stevana,Amanoviæ,"Vihoviæi BB, Kalinovik",0306528041689,6/3/1952,Z,neudata,7/16/2020,055/332-175,057/340-169,roðak
+609,Anðelina,Kasapoviæ,"Vihoviæi BB, Kalinovik",0911051760386,11/9/2005,Z,neudata,7/20/2020,055/258-199,057/340-169,roðak
+610,Roza,Ignjac,"Vinogradi Blok, Trebinje",3112697938283,12/31/1969,Z,neudata,7/20/2020,055/380-159,+387 59 261-353,roðak
+611,Žarka,Klikovac,"Vinogradi BB, Gorica",2709827888190,9/27/1982,Z,neudata,7/19/2020,055/321-222,+387 59 261-351,roðak
+612,Marlena,Mumalo,"Vlaholje BB, Kalinovik",0211644135132,11/2/1964,Z,neudata,7/8/2020,055/201-393,057/340-169,roðak
+613,Ognjana,Mareliæ,"Vlaholje BB, Kalinovik",2301593182661,1/23/1959,Z,neudata,7/15/2020,055/546-454,057/340-169,roðak
+614,Renata,Ristiæeviæ,"Vlaholje BB, Kalinovik",1006035820721,6/10/2003,Z,neudata,7/9/2020,055/379-554,057/340-169,roðak
+615,Draginja,Stojmenoviæ,"Vlaholje BB, Kalinovik",2605433761271,5/26/1943,Z,neudata,7/26/2020,055/389-707,057/340-169,roðak
+616,Blažena,Èavdareviæ,"Vlaholje BB, Kalinovik",2301482574932,1/23/1948,Z,neudata,7/7/2020,055/373-069,057/340-169,roðak
+617,Tatjana,Jašiæ,"Vlaholje BB, Kalinovik",0409502041277,9/4/1950,Z,neudata,7/8/2020,055/370-229,057/340-169,roðak
+618,Adalia,Poznanoviæ,"Vlaholje BB, Kalinovik",2908572107263,8/29/1957,Z,neudata,7/27/2020,055/241-521,057/340-169,roðak
+619,Afrodita,Veljkoviæ,"Vojnoge BB, Foèa",1002391850579,2/10/1939,Z,neudata,7/3/2020,055/389-790,058/214-811,rodica
+620,Slava,Radosavèeviæ,"Vojnoviæi BB, Tjentište",1905668742009,5/19/1966,Z,neudata,7/22/2020,055/321-293,058/214-817,roðak
+621,Simonida,Tambur,Vojvode Petra Bojoviæa 220B,0512514022157,12/5/1951,Z,neudata,7/11/2020,055/394-289,055/416-018,rodica
+622,Vujadinka,Sudžum,"Vojvode Putnika 41, Foèa",2008514215217,8/20/1951,Z,neudata,7/1/2020,055/384-172,058/214-813,rodica
+623,Zora,Mrlješ,"Vojvode Putnika BB, Bijeljina",2110396629395,10/21/1939,Z,neudata,7/21/2020,055/201-696,055/416-016,roðak
+624,Andrijana,Slamarski,"Vojvode Putnika BB, Foèa",2810632017786,10/28/1963,Z,neudata,7/8/2020,055/370-345,058/214-817,roðak
+625,Adrijana,Prljinèeviæ,"Vojvode Putnika BB, Foèa",1405642279722,5/14/1964,Z,neudata,7/21/2020,055/351-025,058/214-817,roðak
+626,Belunka,Peraloviæ,"Vojvode Putnika BB, Foèa",2308161025992,8/23/2016,Z,neudata,7/12/2020,055/241-616,058/214-817,roðak
+627,Marta,Slavkoviæ,"Vojvode Sinðeliæa 88, Trebinje",2307551266756,7/23/1955,Z,neudata,7/22/2020,055/321-358,+387 59 261-352,roðak
+628,Snežana,Ajdinoviæ,"Vojvode Sinðeliæa BB, Trebinje",2301502070081,1/23/1950,Z,neudata,7/24/2020,055/546-161,+387 59 261-351,roðak
+629,Ada,Osatoviæ,"Vojvode Sinðeliæa BB, Trebinje",2002447166933,2/20/1944,Z,neudata,7/15/2020,055/380-484,+387 59 261-353,rodica
+630,Dobra,Tarbuk,"Vojvode Stepe StepaNovica 4, Trebinje",1504523424992,4/15/1952,Z,neudata,7/5/2020,055/301-587,+387 59 261-350,roðak
+631,Anica,Maoduš,"Vojvode Stepe StepaNovica 5, Trebinje",3010727037253,10/30/1972,Z,neudata,7/27/2020,055/350-796,+387 59 261-350,roðak
+632,Stanika,Laletin,"Voljavica BB, Bratunac",2204854724584,4/22/1985,Z,neudata,7/25/2020,055/321-207,056/490-419,roðak
+633,Agnija,Kljakiæ,"Volujac BB, Trebinje",2408576465077,8/24/1957,Z,neudata,7/11/2020,055/325-888,+387 59 261-350,roðak
+634,Žaklina,Nosoviæ,"Vršani BB, Bijeljina",2007632138470,7/20/1963,Z,neudata,7/17/2020,055/321-061,055/416-016,rodica
+635,Soka,Golemoviæ,"Vrtoèe bb, Miliæi",1812596167413,12/18/1959,Z,neudata,7/18/2020,055/222-290,056/211-100,majka
+636,Cvijeta,Èabrinoviæ,"Vrtoèe bb, Miliæi",1005007545849,5/10/2000,Z,neudata,7/29/2020,055/350-940,056/211-101,roðak
+637,Lenka,Bogovaèki,"Vrtoèe bb, Miliæi",2406561527292,6/24/1956,Z,neudata,7/15/2020,055/211-311,056/211-101,roðak
+638,Kajsija,Marjanoviæ,"Vrulje BB, Gorica",3005521563725,5/30/1952,Z,neudata,7/16/2020,055/204-936,+387 59 261-350,rodica
+639,Vuka,Ruškiæ,"Vujadini bb, Miliæi",0412684678075,12/4/1968,Z,neudata,7/14/2020,055/383-616,056/211-101,roðak
+640,Vesna,Varadinoviæ,"Vujadini bb, Miliæi",2512403283825,12/25/1940,Z,neudata,7/15/2020,055/552-204,056/211-101,rodica
+641,Jeka,Anðiæ,"Vujadini bb, Miliæi",1812079131945,12/18/2007,Z,neudata,7/22/2020,055/206-696,056/211-101,roðak
+642,Obrenija,Novakoviæ,"Vujadini bb, Miliæi",1409836500271,9/14/1983,Z,neudata,7/19/2020,055/383-445,056/211-101,roðak
+643,Novka,Konjoviæ,"Vujadini bb, Miliæi",0605789973705,5/6/1978,Z,neudata,7/28/2020,055/301-936,056/211-101,rodica
+644,Dora,Vejinoviæ,"Vujadini bb, Miliæi",1209209195113,9/12/2020,Z,neudata,7/9/2020,055/543-047,056/211-101,roðak
+645,Kalinka,Šušak,"Vujadini bb, Miliæi",2609557962560,9/26/1955,Z,neudata,7/21/2020,055/377-417,056/211-101,roðak
+646,Miranda,Jekiæ,"Vuka Karadžiæa Br/98, Zvornik",1609967285998,9/16/1996,Z,neudata,7/27/2020,055/325-838,056/211-111,roðak
+647,Slava,Ajdariæ,"Vuka Karadžiæa BB, Foèa",1007481212068,7/10/1948,Z,neudata,7/28/2020,055/771-071,058/214-817,roðak
+648,Milkica,Ðurièin,"Vuka Stefanoviæa Karadžiæa S19/5, Miliæi",2903904294509,3/29/1990,Z,neudata,7/19/2020,055/799-225,056/211-100,roðak
+649,Teodora,Putnik,"Vukoviæi bb, Miliæi",1010983212151,10/10/1998,Z,neudata,7/24/2020,055/778-212,056/211-101,roðak
+650,Rusa,Štruc,"Vukoviæi bb, Miliæi",0609043535523,9/6/2004,Z,neudata,7/1/2020,055/776-290,056/211-101,roðak
+651,Vukosava,Kokir,"Vukoviæi bb, Miliæi",0502691389881,2/5/1969,Z,neudata,7/23/2020,055/799-152,056/211-101,roðak
+652,Stojana,Simenoviæ,"Vukoviæi bb, Miliæi",1303938178604,3/13/1993,Z,neudata,7/25/2020,055/799-223,056/211-101,roðak
+653,Nadica,Vitezoviæ,"Zabrðe BB, Ugljevik",1010768829130,10/10/1976,Z,neudata,7/23/2020,055/778-195,055/416-019,roðak
+654,Blaga,Maljukanoviæ,"Zagoni BB, Bratunac",1105806546554,5/11/1980,Z,neudata,7/17/2020,055/778-028,056/490-419,roðak
+655,Despina,Žikeliæ,"Zahumska Ulica 45, Trebinje",1407396424545,7/14/1939,Z,neudata,7/25/2020,055/771-065,+387 59 261-352,roðak
+656,Radija,Goševac,"Zahumska Ulica BB, Trebinje",0905562826063,5/9/1956,Z,neudata,7/4/2020,055/772-850,+387 59 261-351,roðak
+657,Jablana,Veneèanin,"Žakovo BB, Trebinje",2711082652109,11/27/2008,Z,neudata,7/26/2020,055/778-007,+387 59 261-353,roðak
+658,Evgenija,Begoviæ,"Zalužje BB, Bratunac",1107385548946,7/11/1938,Z,neudata,7/16/2020,055/799-076,056/490-419,roðak
+659,Radija,Dodoš,"Zasad 87, Trebinje",0108864335310,8/1/1986,Z,neudata,7/22/2020,055/771-620,+387 59 261-351,roðak
+660,Olgica,Milunoviæ,"Zasad Polje BB, Trebinje",2409393675292,9/24/1939,Z,neudata,7/3/2020,055/778-127,+387 59 261-352,roðak
+661,Bogdanka,Gonèin,"Zasad BB, Trebinje",3009734907374,9/30/1973,Z,neudata,7/27/2020,055/799-110,+387 59 261-351,roðak
+662,Bogdanka,Trivanoviæ,"Zelinje BB, Zelinje",1311157572562,11/13/2015,Z,neudata,7/20/2020,055/776-359,056/211-111,roðak
+663,Krstina,Nikodinoviæ,"Zgonjevo BB, Dživar",3108126566366,8/31/2012,Z,neudata,7/22/2020,055/798-168,+387 59 261-350,roðak
+664,Antea,Mijalkoviæ,"Živojina Mišiæa 9, Bijeljina",0212123754447,12/2/2012,Z,neudata,7/2/2020,055/772-396,055/416-016,roðak
+665,Zorana,Vujièiæ,"Žljevice BB, Bratunac",2006037202922,6/20/2003,Z,neudata,7/20/2020,055/799-109,056/490-417,roðak
+666,Ljupka,Lackoviæ,"Zuke Džumhura 6, Foèa",2111441679734,11/21/1944,Z,neudata,7/26/2020,055/771-931,058/214-812,sestra
+667,Dunja,Todoroviæ,"Zuke Džumhura 8, Foèa",1405004324939,5/14/2004,Z,neudata,7/25/2020,055/771-931,058/214-812,rodica
+668,Danica,Lazareviæ,"Žljevice BB, Bratunac",2309995838534,9/23/1999,Z,udata,7/25/2020,055/772-396,055/416-016,roðak 
+669,Lazar,Stefanoviæ,"Živojina Mišiæa 10, Bijeljina",2404989898268,4/24/1989,M,neoženjen,7/23/2020,055/772-396,055/416-016,brat
+670,Strahinja,Stefanoviæ,"Živojina Mišiæa 10, Bijeljina",1206999369654,6/12/1999,M,neoženjen,7/23/2020,055/772-396,055/416-016,brat
+671,Arsenije,Milojeviæ,"Zasad BB, Trebinje",2204996774582,4/22/1996,M,oženjen,7/17/2020,055/799-110,+387 59 261-351,roðak
+672,Sara,Stankoviæ,"Zasad Polje BB, Trebinje",2508000477954,8/25/2000,Z,neudata,7/17/2020,055/799-110,+387 59 261-350,roðak
+673,Iskra,Vasiæ,"Zahumska Ulica 45, Trebinje",2204999355638,4/22/1999,Z,udata,7/17/2020,055/771-065,+387 59 261-350,muž
+674,Stefan,Blagojeviæ,"Vuka Karadžiæa BB, Foèa",0702985474665,2/7/1985,M,oženjen,7/28/2020,055/771-071,058/214-817,brat
+675,Nebojša,Vukanoviæ,"Žakovo BB, Trebinje",2705976469269,5/27/1976,M,neoženjen,7/28/2020,055/799-110,+387 59 261-351,prijatelj
+676,Ivan,Uroševiæ,"Živojina Mišiæa 18, Bijeljina",1804999496288,4/18/1999,M,oženjen,7/23/2020,055/772-396,055/416-016,roðak
+677,Nina,Tomiæ,"Vuka Karadžiæa BB, Foèa",2604001723962,4/26/2001,Z,udata,7/28/2020,055/771-071,058/214-817,muž
+678,Staša,Živanoviæ,"Žakovo BB, Trebinje",0604988958678,4/6/1988,M,neoženjen,7/28/2020,055/799-110,+387 59 261-351,prijatelj
+679,Vasilije,Rakiæ,"Žakovo BB, Trebinje",1906002559735,6/19/2002,M,oženjen,7/28/2020,055/799-110,+387 59 261-351,roðak
+680,Jakov,Tošiæ,"Živojina Mišiæa 20, Bijeljina",1506984856423,6/15/1984,M,neoženjen,7/23/2020,055/772-396,055/416-016,roðak
+681,Sofija,Jankoviæ,"Živojina Mišiæa 21, Bijeljina",0906002937592,6/9/2002,Z,neudata,7/23/2020,055/772-396,055/416-016,roðak
+682,Anja,Radovanoviæ,"Vrtoèe bb, Miliæi",1305993796956,5/13/1993,Z,neudata,7/20/2020,055/258-199,057/340-169,roðak
+683,Luka,Mitiæ,"Ulog BB, Kalinovik",1208986434329,8/12/1986,M,oženjen,7/20/2020,055/258-199,057/340-169,prijatelj
+684,Marko,Periæ,"Ulog BB, Kalinovik",0504997866775,4/5/1997,M,neoženjen,7/20/2020,055/258-199,057/340-169,prijatelj
+685,Sava,Ðurðeviæ,"Ulog BB, Kalinovik",0308995687894,8/3/1995,M,neoženjen,7/20/2020,055/258-199,057/340-169,prijatelj
+686,Ðurða,Petroviæ,"Ulog BB, Kalinovik",0404997834826,4/4/1997,Z,neudata,7/20/2020,055/258-199,057/340-169,prijatelj
+687,Maša,Ivanoviæ,"Ulog BB, Kalinovik",1303004883534,3/13/2004,Z,neudata,7/20/2020,055/258-199,057/340-169,prijatelj
+688,Hana,Ðuriæ,"Žljevice BB, Bratunac",2402986276576,2/24/1986,Z,neudata,7/25/2020,055/772-396,055/416-016,roðak
+689,Minja,Živkoviæ,"Žljevice BB, Bratunac",2706000927653,6/27/2000,Z,neudata,7/25/2020,055/772-396,055/416-016,roðak
+690,Anðela,Aleksiæ,"Žljevice BB, Bratunac",0606999374997,6/6/1999,Z,neudata,7/25/2020,055/772-396,055/416-016,roðak
+691,Kristina,Gajiæ,"Žljevice BB, Bratunac",0602982242254,2/6/1982,Z,neudata,7/25/2020,055/772-396,055/416-016,prijatelj
+692,Srna,Pavloviæ,"Ulog BB, Kalinovik",1506996264943,6/15/1996,Z,neudata,7/20/2020,055/258-199,057/340-169,prijatelj
+693,Jana,Mitroviæ,"Ulog BB, Kalinovik",2504996886232,4/25/1996,Z,neudata,7/20/2020,055/258-199,057/340-169,prijatelj
+694,Anðelija,Bogdanoviæ,"Vujadini bb, Miliæi",0707987883672,7/7/1987,Z,neudata,7/14/2020,055/383-616,056/211-101,roðak
+695,Mihajlo,Zdravkoviæ,"Vujadini bb, Miliæi",1407998238287,7/14/1998,M,neoženjen,7/14/2020,055/383-616,056/211-101,prijatelj
+696,Miloš,Radoviæ,"Vujadini bb, Miliæi",2602987857769,2/26/1987,M,neoženjen,7/14/2020,055/383-616,056/211-101,prijatelj
+697,Andrej,Stojkoviæ,"Trnova Gornja BB, Bijeljina",2606975525545,6/26/1975,M,neoženjen,7/14/2020,055/383-616,056/211-101,prijatelj
+698,Maksim,Gavriloviæ,"Trnova Gornja BB, Bijeljina",1902983458767,2/19/1983,M,oženjen,7/14/2020,055/383-616,056/211-101,prijatelj
+699,Zoran,Ðukiæ,"Trnova Gornja BB, Bijeljina",1503995774786,3/15/1995,M,neoženjen,7/14/2020,055/383-616,056/211-101,prijatelj
+700,Nikola,Milanoviæ,"Trnova Gornja BB, Bijeljina",0505993228883,5/5/1993,M,neoženjen,7/14/2020,055/383-616,056/211-101,prijatelj

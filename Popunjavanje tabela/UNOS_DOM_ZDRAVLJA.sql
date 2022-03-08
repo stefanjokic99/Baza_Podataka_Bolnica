@@ -1,0 +1,15 @@
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (1,'Dom zdravlja Stari Grad Mostar','Mostar, Osmana Đikića br. 6');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (2,'Dom zdravlja Čapljina','Čapljina, Ulica fra Didaka Buntića b.b.');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (3,'Dom zdravlja Stolac','Stolac, Ulica kneza M. Viševića b.b.');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (4,'Dom zdravlja Čitluk','Čitluk, Stjepana Radića b.b.');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (5,'Dom zdravlja Jablanica','Jablanica, Sulje Čilića br. 15');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (6,'Dom zdravlja Konjic','Konjic, Bolnička do br. 13');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (7,'Dom zdravlja Neum','Neum, Zagrebačka b.b.');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (8,'JZU Dom Zdravlja Ugljevik','Ugljevik, Karađorđeva 10');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (9,'JZU Dom Zdravlja "Istočno Sarajevo"','Lukavica, Stefana Nemanje 56');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (10,'Dom zdravlja Bratunac','NEMANJINA 18, 75420 Bratunac');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (11,'Dom zdravlja Trebinje','Dr Levia br. 2 89101 Trebinje');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (12,'JZU Dom Zdravlja "Dr Ljubomir Ćeranić" Sokolac','Glasinačka 15 71350 Sokolac');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (13,'Dom zdravlja, Foča','Cara Dušana bb, 73300 Foča');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (14,'Dom zdravlja Zvornik','Sime Perića 2, Zvornik');
+INSERT INTO DOM_ZDRAVLJA(JIB_DZ,NAZIV,ADRESA) VALUES (15,'JZU „Zdravstveni centar Brčko“','Reisa Džemaludina Čauševića 1 76100 Brčko');

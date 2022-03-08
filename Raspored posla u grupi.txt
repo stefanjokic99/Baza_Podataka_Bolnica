@@ -1,0 +1,51 @@
+1. Danijela Milanović
+2. Tanja Veselinović
+3. Stefan Jokić
+4. Radmilo Borovina
+5. Helena Ćupina
+6. Danijel Glišić
+7. Stefan Vujić
+8. Milenko Marjanović
+9. Boris Stanar
+10. Mirjana Petković
+11. Milan Mitrić
+
+Milenko Marjanović - Popunjavanje baze podacima (Samo u txt fajl je potrebno) do 28. - 29. og Jula
+
+Helena Ćupina         - Popunjavanje spojnih tabela (Prilagodjavanje tih txt fajlova) 
+Mirjana Petković      -	Popunjavanje spojnih tabela (Prilagodjavanje tih txt fajlova) 
+Rad u timu - 29. og do 31. Jula(potrebno je prilagoditi Milenkove fajlove, sa tim vodeći računa da postoji jedan direktor, on nema direktno svoju kliniku,
+po jedna glavna sestra za svaku kliniku...)
+
+Danijela Milanović - Pisanje dokumentacije, Prilagodjavanje zahtjeva do 02. - 03. Avgust
+Stefan Jokić - Pisanje dokumentacije, Prilagodjavanje zahtjeva do 02. - 03. Avgust
+
+Stefan Jokić - Unošenje skripti - implementacija,...  do 25. Avgusta
+Danijela Milanović - Update dokumentacije kroz rad(Dodavanje upita i svega sto treba) do 25. Avgusta
+
+Boris Stanar - Precrtavanje ER Dijagrama u LucidChart(Skrinshoti potrebni na određenim mjestima, pojašnjenje uskoro) do 29. Jul
+
+Danijel Glišić - Prilagođavanje upita 03. Avgust - 08. Avgust
+Milan Mitrić - Prilagođavanje upita 03. Avgust - 08. Avgust
+Radmilo Borovina - Prilagođavanje upita 03. Avgust - 08. Avgust
+
+Stefan Vujić - testiranje upita i pomoć pri izradi ukoliko je potrebno 08. Avgust - 13. Avgust
+
+Tanja Veselinović - lektura, uređivanje i eksportovanje dokumentacije u različitim formatima (.pdf i .docx) do 30. Avgusta
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Za sada odrađeno: 
+Crtanje ER dijagrama i dizajn sistema - Danijela Milanović
+Prebacivanje ER dijagrama u relacioni model - Stefan Jokić 
+Implementacija baze - Danijela Milanović, Tanja Veselinović, Mirjana Petković, Helena Ćupina, Stefan Jokić
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Čuvanje skripti se vrši u odvojene fajlove(koji se nalaze raspoređeni kao na Google Drive u) i unutar oracle korisnika Grupa2
+
+Prije svakog dijela biće objašnjenje kako i šta implementiramo, iz razloga da bi svako na svojoj "mašini" imao backup ove baze...
+Takođe će biti potrebno za izradu i testiranje upita... 
+oko podjele se dogovorite između vas, upiti su u fajlovima zadaci1,...,zadaci4 na moodle u
+potrebno je prilagoditi za naš slučaj i napisati upit
+fajl je potrebno proslediti Vujić u, na grupu i drive
+Prilikom izrade upita jedan deo možete prepustiti Tanji i Borisu ako su oni u mogućnosti.
+
+Stefan Vujić -  prilikom testiranja napravi novu kopiju fajla, istestiras upit, vidis da li radi sta treba. Ocjeni ga sa tacno ili netacno i screenshot rezultat koji dobijes.
+takođe proslediti na drive. 
